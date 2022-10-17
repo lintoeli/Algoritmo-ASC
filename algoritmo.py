@@ -19,8 +19,7 @@ def obtenerVecinos(vector, numVecinos):
     vecinos = []
     for d in distancias_sort:
         vecinos.append(d[0])
-    finalVecinos = vecinos[0 : numVecinos]
-    return finalVecinos
+    return vecinos[0 : numVecinos]
 
 def generarPoblacion(numIndividuos):
     poblacion = []
