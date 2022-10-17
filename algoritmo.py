@@ -28,7 +28,7 @@ def generarPoblacion(numIndividuos):
         for i in range(30):
             gen = random.random()
             cromosoma.append(gen)
-        poblacion.append(tuple(cromosoma))
+        poblacion.append(cromosoma)
     return poblacion 
 
 pesos = [
