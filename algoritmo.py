@@ -43,9 +43,9 @@ def calcularDistancias(pesos, vector):
 
 def obtenerVecinos(vector, numVecinos):
     distancias = calcularDistancias(pesos, vector)
-    distancias_sort = sorted(distancias.items(), key=operator.itemgetter(1))
+    distanciasOrdenadas = sorted(distancias.items(), key=operator.itemgetter(1))
     vecinos = []
-    for d in distancias_sort:
+    for d in distanciasOrdenadas:
         vecinos.append(d[0])
     return vecinos[0 : numVecinos]
 
@@ -55,11 +55,11 @@ def generarPoblacion(numIndividuos=len(pesos)):
         cromosoma = []
         for i in range(30):
             gen = random.random()
-            cromosoma.append(round(gen, 5))       #Numero de decimales a utilizar
+            cromosoma.append(round(gen, 5))       #Numero de decimales a utilizar para cada gen
         poblacion.append(cromosoma)
     return poblacion
 
-#----------------------------------------EVALUACION DE INDIVIDUO------------------------------------------------------
+#----------------------------------------EVALUACION DE INDIVIDUO Y GENERACION------------------------------------------------------
 
 def funcionG(x):
     suma = 0
@@ -73,20 +73,24 @@ def funcionH(x):
     return 1 - (sqrt(f1/g)) - (f1/g)*sin((10*pi*f1))
 
 def funcionF2(x):
-    return funcionG(x) * funcionH(x)
+    f2 = funcionG(x) * funcionH(x)
+    return f2.real                       #Hay veces que al calcular f2 sale un numero complejo del tipo a + 0*i, lo que impide la ejecucion del if de la funcion Z de abajo
 
 def funcionZ(poblacion):
-    f1 = 100.00
-    f2 = 100.00
+    f1 = 100.0
+    f2 = 100.0
     for i in range(len(poblacion)):
         x = poblacion[i]
-        if x[0] < f1:
-            f1 = x[0]
-        if funcionF2(x) < f2:
-            f2 = funcionF2(x)
-    return tuple(f1, f2)
+        f1Aux = x[0]
+        f2Aux = funcionF2(x)
+        if f1Aux < f1:
+            f1 = f1Aux
+        if f2Aux < f2:
+            f2 = f2Aux
+    tupla = (f1,f2)
+    return tupla
 
-def gte(x, poblacion, pesos): 
+def gte(x, poblacion, pesos):          #FITNESS
     index = poblacion.index(x)
     w = pesos[index]
     z = funcionZ(poblacion)
@@ -96,17 +100,26 @@ def gte(x, poblacion, pesos):
     argumento2 = w[1] * abs(f2 - z[1])
     return max(argumento1, argumento2)
 
+def evaluarGeneracion(poblacion, pesos):        #Obtenemos una lista ordenada por los mejores valores (los mas bajos)
+    lista = []
+    for i in range(len(poblacion)):
+        x = poblacion[i]
+        fitness = gte(x, poblacion, pesos)
+        lista.append((i, fitness))
+    listaFinal = sorted(lista, key=operator.itemgetter(1))
+    return listaFinal
+
 #--------------------------------------------PRUEBAS------------------------------------------------------------------
 
 '''
-Calcular Distancias:
+#Calcular Distancias:
 
 print("Vectores peso:", pesos)
 pruebaDistancias = calcularDistancias(pesos, pesos[1])
 '''
 
 '''
-Calcular Vecinos:
+#Calcular Vecinos:
 
 print("Distancia desde pesos1 a los demas:", pruebaDistancias)
 pruebaVecinos = obtenerVecinos(pesos[1], 3)
@@ -119,11 +132,30 @@ poblacion = generarPoblacion()
 print(poblacion)
 '''
 
+'''
 #Evaluar un individuo:
 
-poblacion = generarPoblacion()
-print(poblacion)
-x = poblacion[0]
-print(x)
-print("f1=", x[0], ", f2=", funcionF2(x))
+poblacionPrueba = generarPoblacion()
+print(poblacionPrueba)
 
+x = poblacionPrueba[0]
+print(x)
+
+f2 = funcionF2(x)
+print("f1=", x[0], ", f2=", f2)
+
+z = funcionZ(poblacionPrueba)
+print("z= ", z)
+
+evaluacionX = gte(x, poblacionPrueba, pesos)
+print("Puntuacion del individuo= ", evaluacionX)
+'''
+
+
+#Evaluar una generacion:
+
+poblacionPrueba = generarPoblacion()
+print(poblacionPrueba)
+
+evaluacionG = evaluarGeneracion(poblacionPrueba, pesos)
+print("Puntuaciones de la generacion actual: ", evaluacionG)
