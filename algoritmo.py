@@ -61,36 +61,37 @@ def generarPoblacion(numIndividuos=len(pesos)):
 
 #----------------------------------------EVALUACION DE INDIVIDUO------------------------------------------------------
 
-def g(x):
+def funcionG(x):
     suma = 0
     for i in range(1, len(x)):
         suma = suma + x[i]
     return 1 + (9*suma/(len(x) - 1))
 
-def h(x):
+def funcionH(x):
     f1 = x[0]
-    g = g(x)
+    g = funcionG(x)
     return 1 - (sqrt(f1/g)) - (f1/g)*sin((10*pi*f1))
 
-def f2(x):
-    return g(x) * h(x)
+def funcionF2(x):
+    return funcionG(x) * funcionH(x)
 
-def z(poblacion):
+def funcionZ(poblacion):
     f1 = 100.00
     f2 = 100.00
-    for x in poblacion:
+    for i in range(len(poblacion)):
+        x = poblacion[i]
         if x[0] < f1:
             f1 = x[0]
-        if f2(x) < f2:
-            f2 = f2(x)
-    return (f1, f2)
+        if funcionF2(x) < f2:
+            f2 = funcionF2(x)
+    return tuple(f1, f2)
 
-def gte(x, poblacion, pesos): #Funcion a minimizar
+def gte(x, poblacion, pesos): 
     index = poblacion.index(x)
     w = pesos[index]
-    z = z(poblacion)
+    z = funcionZ(poblacion)
     f1 = x[0]
-    f2 = f2(x)
+    f2 = funcionF2(x)
     argumento1 = w[0] * abs(f1 - z[0])
     argumento2 = w[1] * abs(f2 - z[1])
     return max(argumento1, argumento2)
@@ -111,10 +112,18 @@ print("Distancia desde pesos1 a los demas:", pruebaDistancias)
 pruebaVecinos = obtenerVecinos(pesos[1], 3)
 print("Indice de pesos mas cercanos:", pruebaVecinos)
 '''
-
+'''
 #Generar poblacion aleatoria:
 
 poblacion = generarPoblacion()
 print(poblacion)
+'''
 
+#Evaluar un individuo:
+
+poblacion = generarPoblacion()
+print(poblacion)
+x = poblacion[0]
+print(x)
+print("f1=", x[0], ", f2=", funcionF2(x))
 
