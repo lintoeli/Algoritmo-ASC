@@ -3,6 +3,31 @@ import operator
 import numpy
 import random
 
+#------------------------------------------------INICIALIZACION--------------------------------------------------------
+
+pesos = [
+    (0.2,0.8),
+    (0.25,0.75),
+    (0.41,0.59),
+    (0.1,0.9),
+    (0.5,0.5),
+    (0.15,0.85),
+    (0.97,0.03),
+    (0.7,0.3),
+    (0.65,0.35),
+    (0.4,0.6),
+    (0.2,0.8),
+    (0.25,0.75),
+    (0.41,0.59),
+    (0.1,0.9),
+    (0.5,0.5),
+    (0.15,0.85),
+    (0.97,0.03),
+    (0.7,0.3),
+    (0.65,0.35),
+    (0.4,0.6)
+]
+
 #----------------------------------OPERACIONES DE VECTORES Y POBLACION-------------------------------------------------
 
 def calcularDistancias(pesos, vector):
@@ -24,13 +49,13 @@ def obtenerVecinos(vector, numVecinos):
         vecinos.append(d[0])
     return vecinos[0 : numVecinos]
 
-def generarPoblacion(numIndividuos):
+def generarPoblacion(numIndividuos=len(pesos)):
     poblacion = []
     for i in range(numIndividuos):
         cromosoma = []
         for i in range(30):
             gen = random.random()
-            cromosoma.append(gen)
+            cromosoma.append(round(gen, 5))       #Numero de decimales a utilizar
         poblacion.append(cromosoma)
     return poblacion
 
@@ -41,7 +66,7 @@ def g(x):
     for i in range(1, len(x)):
         suma = suma + x[i]
     return 1 + (9*suma/(len(x) - 1))
-    
+
 def h(x):
     f1 = x[0]
     g = g(x)
@@ -70,21 +95,6 @@ def gte(x, poblacion, pesos): #Funcion a minimizar
     argumento2 = w[1] * abs(f2 - z[1])
     return max(argumento1, argumento2)
 
-#------------------------------------------------INICIALIZACION--------------------------------------------------------
-
-pesos = [
-    (0.2,0.8),
-    (0.25,0.75),
-    (0.41,0.59),
-    (0.1,0.9),
-    (0.5,0.5),
-    (0.15,0.85),
-    (0.97,0.03),
-    (0.7,0.3),
-    (0.65,0.35),
-    (0.4,0.6)
-]
-
 #--------------------------------------------PRUEBAS------------------------------------------------------------------
 
 '''
@@ -101,10 +111,10 @@ print("Distancia desde pesos1 a los demas:", pruebaDistancias)
 pruebaVecinos = obtenerVecinos(pesos[1], 3)
 print("Indice de pesos mas cercanos:", pruebaVecinos)
 '''
-'''
-Generar poblacion aleatoria:
 
-poblacion = generarPoblacion(8)
+#Generar poblacion aleatoria:
+
+poblacion = generarPoblacion()
 print(poblacion)
-'''
+
 
