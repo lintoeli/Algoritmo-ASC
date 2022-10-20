@@ -59,6 +59,23 @@ def generarPoblacion(numIndividuos=len(pesos)):
         poblacion.append(cromosoma)
     return poblacion
 
+def sumarIndividuos(x, y):
+    z = []
+    for i in range(len(x)):
+        z[i] = x[i] + y[i]
+    return z
+
+def restarIndividuos(x, y):
+    z = []
+    for i in range(len(x)):
+        z[i] = x[i] - y[i]
+    return z
+
+def individuoPorConstante(x, c):
+    for i in range(len(x)):
+        x[i] = x[i]*c
+    return x
+
 #----------------------------------------EVALUACION DE INDIVIDUO Y GENERACION------------------------------------------------------
 
 def funcionG(x):
@@ -109,7 +126,40 @@ def evaluarGeneracion(poblacion, pesos):        #Obtenemos una lista ordenada po
     listaFinal = sorted(lista, key=operator.itemgetter(1))
     return listaFinal
 
-#--------------------------------------------PRUEBAS------------------------------------------------------------------
+#-------------------------------------------CRUCE Y MUTACION-----------------------------------------------------------------
+
+def mutacionConVecinos(x, poblacion, pesos):
+    indiceX = poblacion.index(x)
+    pesoX = pesos[indiceX]                         #Obtenemos la vecindad completa de un individuo
+    vecinosX = obtenerVecinos(pesoX, 3)            #NumVecinos = 3   
+    vecinosX.append(indiceX)                       # + 1 vecino que es el propio individuo = 4 vecinos
+
+    descartado = random.choice(vecinosX)           
+    vecinosX.remove(descartado)
+    x1 = random.choice(vecinosX)                   #Seleccionamos 3 elementos aleatoriamente de la
+    vecinosX.remove(x1)                            #vecindad
+    x2 = random.choice(vecinosX)                   #Vamos eliminando elementos de la lista para no
+    vecinosX.remove(x2)                            #repetir individuos
+    x3 = random.choice(vecinosX)
+    vecinosX.remove(x3)
+
+    aux1 = restarIndividuos(x2, x3)               #x2 - x3
+    aux2 = individuoPorConstante(aux1, 0.5)       #F(x2 - x3)
+    aux3 = sumarIndividuos(x1, aux2)              #x1 + F(x2 - x3)
+    return aux3
+    
+def cruce(x, poblacion, pesos, probabilidad):     
+    v = mutacionConVecinos(x, poblacion, pesos)
+    y = []                                        
+    for i in range(len(x)):
+        p = random.random()                       #Se genera un numero aleatorio para decidir si el nuevo valor
+        if p >= probabilidad:                     #del proximo individuo sera del individuo original o del mutado
+            y[i] = v[i]
+        else:
+            y[i] = x[i]
+    return y
+
+#--------------------------------------------PRUEBAS------------------------------------------------------------------------
 
 '''
 #Calcular Distancias:
