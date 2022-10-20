@@ -126,6 +126,13 @@ def evaluarGeneracion(poblacion, pesos):        #Obtenemos una lista ordenada po
     listaFinal = sorted(lista, key=operator.itemgetter(1))
     return listaFinal
 
+def compararFitness(x, y, poblacion):
+    fit1 = gte(x, poblacion, pesos)
+    fit2 = gte(y, poblacion, pesos)
+    if fit1 < fit2:
+        return x
+    else: 
+        return y
 #-------------------------------------------CRUCE Y MUTACION-----------------------------------------------------------------
 
 def mutacionConVecinos(x, poblacion, pesos):
