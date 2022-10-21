@@ -1,6 +1,7 @@
+import random
 import funciones
 
-#----------------------------------INICIALIZACION------------------------------------------------------
+#-------------------------------------------INICIALIZACION------------------------------------------------------
 
 pesos = [
     (0.2,0.8),
@@ -29,9 +30,23 @@ poblacion = funciones.generarPoblacion()
 print(poblacion)
 generaciones = 500
 probCruce = 0.5
+registroGeneraciones = {}                   #Estos registros facilitaran la muestra de datos posteriormente
+registroFitnessPorGeneracion = {}
 
 #-------------------------------------------PROCEDIMIENTO------------------------------------------------------------
+
 for i in range(generaciones):
-    nextGen = []
-    z = funciones.funcionZ(poblacion)
+    registroGeneraciones[i] = poblacion                                     #Comenzamos guardando en el registro
+    nextGen = []                                                            #los individuos de la presente generacion
+    for i in range(len(poblacion)):
+        p = random.random()
+        x = poblacion[i]                                                    #Generamos un nuevo individuo mediante
+        xm = funciones.cruce1(x, poblacion, pesos, probCruce)               #cruce y mutacion, y nos quedamos con el
+        y = funciones.compararFitness(x, xm, poblacion)                     #mejor entre el nuevo y el original
+        nextGen.append(y)
+    fitnessGeneracion = funciones.evaluarGeneracion(poblacion, pesos)       #Una vez terminados todos los cruces y
+    registroFitnessPorGeneracion[i] = fitnessGeneracion                     #mutaciones, la nueva poblacion con la que
+    poblacion = nextGen.copy()                                              #trabajar pasa a ser la lista nextGen para
+                                                                            #la siguiente iteracion
+                                                            
     

@@ -157,7 +157,7 @@ def mutacionConVecinos(x, poblacion, pesos):
     aux3 = sumarIndividuos(x1, aux2)              #x1 + F(x2 - x3)
     return aux3
     
-def cruce(x, poblacion, pesos, probabilidad):     
+def cruce1(x, poblacion, pesos, probabilidad):     
     v = mutacionConVecinos(x, poblacion, pesos)
     y = []                                        
     for i in range(len(x)):
@@ -166,6 +166,16 @@ def cruce(x, poblacion, pesos, probabilidad):
             y.append(x[i])
         else:
             y.append(v[i])
+    return y
+
+def cruce2(x1, x2, probabilidad):     
+    y = []                                        
+    for i in range(len(x1)):
+        p = random.random()                       #Se genera un numero aleatorio para decidir si el nuevo valor
+        if p >= probabilidad:                     #del proximo individuo sera del individuo original o del mutado
+            y.append(x1[i])
+        else:
+            y.append(x2[i])
     return y
 
 #--------------------------------------------PRUEBAS------------------------------------------------------------------------
