@@ -141,9 +141,7 @@ def mutacionConVecinos(x, poblacion, pesos):
     pesoX = pesos[indiceX]                         #Obtenemos la vecindad completa de un individuo
     vecinosX = obtenerVecinos(pesoX, 3)            #NumVecinos = 3   
     vecinosX.append(indiceX)                       # + 1 vecino que es el propio individuo = 4 vecinos
-
-    descartado = random.choice(vecinosX)           
-    vecinosX.remove(descartado)
+    
     n1 = random.choice(vecinosX)
     x1 = poblacion[n1]                              #Seleccionamos 3 elementos aleatoriamente de la
     vecinosX.remove(n1)                             #vecindad

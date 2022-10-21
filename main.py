@@ -1,5 +1,7 @@
 import funciones
 
+#----------------------------------INICIALIZACION------------------------------------------------------
+
 pesos = [
     (0.2,0.8),
     (0.25,0.75),
@@ -25,3 +27,11 @@ pesos = [
 
 poblacion = funciones.generarPoblacion()
 print(poblacion)
+generaciones = 500
+probCruce = 0.5
+
+#-------------------------------------------PROCEDIMIENTO------------------------------------------------------------
+for i in range(generaciones):
+    nextGen = []
+    z = funciones.funcionZ(poblacion)
+    
