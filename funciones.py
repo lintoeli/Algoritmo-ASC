@@ -126,15 +126,30 @@ def evaluarGeneracion(poblacion, pesos):        #Obtenemos una lista ordenada po
     listaFinal = sorted(lista, key=operator.itemgetter(1))
     return listaFinal
 
-def compararFitness(x, y, poblacion):
+def compararFitness(x, y, poblacion, pesos):
     fit1 = gte(x, poblacion, pesos)
     fit2 = gte(y, poblacion, pesos)
     if fit1 < fit2:
         return x
     else: 
         return y
-        
-#-------------------------------------------CRUCE Y MUTACION-----------------------------------------------------------------
+
+def mejorIndividuoGlobal(registroFitness):
+    items = list(registroFitness.items())               #Si no se castea a list falla, da un error
+    mejorFitness = 1000                                 #'dict_items' object is not subscriptable
+    res0 = 0                                            
+    res1 = 0
+    for i in range(len(items)):
+        poblacion = items[i][1]
+        for j in range(len(poblacion)):
+            x = poblacion[j]
+            if x[1] <= mejorFitness:
+                mejorFitness = x[1]
+                res0 = i
+                res1 = j                                #Devolvemos una lista que contiene la generacion,
+    return [res0, res1, mejorFitness]                   #el indice del individuo de esa generacion y el fitness
+
+#-----------------------------------------------------------------CRUCE Y MUTACION-----------------------------------------------------------------
 
 def mutacionConVecinos(x, poblacion, pesos):
     indiceX = poblacion.index(x)
@@ -257,12 +272,23 @@ y = poblacionPrueba[1]
 v2 = cruce(y, poblacionPrueba, pesos, 0.3)
 print("y = ", y, ", v2 = ", v2)
 '''
+'''
+#Mejor individuo global:
 
+diccio = {0:[(0, 4), (1, 1), (2, 5), (3, 2)], 
+          1:[(0, 2), (1, 1.5), (2, 9), (3, 1.2)],
+          2:[(0, 2), (1, 1.7), (2, 0.7), (3, 7)]
+          }
+
+items = diccio.items()
+res = mejorIndividuoGlobal(diccio)
+print(res)
+'''
 
 '''
 QUEDA:
 -Mostrar datos en plot
--Iterar por generaciones
--Memoria
+-Iterar por generaciones ***
+-Memoria pdf
 -Reperit todo para el segundo problema
 '''

@@ -42,11 +42,13 @@ for i in range(generaciones):
         p = random.random()
         x = poblacion[i]                                                    #Generamos un nuevo individuo mediante
         xm = funciones.cruce1(x, poblacion, pesos, probCruce)               #cruce y mutacion, y nos quedamos con el
-        y = funciones.compararFitness(x, xm, poblacion)                     #mejor entre el nuevo y el original
+        y = funciones.compararFitness(x, xm, poblacion, pesos)                     #mejor entre el nuevo y el original
         nextGen.append(y)
     fitnessGeneracion = funciones.evaluarGeneracion(poblacion, pesos)       #Una vez terminados todos los cruces y
     registroFitnessPorGeneracion[i] = fitnessGeneracion                     #mutaciones, la nueva poblacion con la que
     poblacion = nextGen.copy()                                              #trabajar pasa a ser la lista nextGen para
                                                                             #la siguiente iteracion
+
+
                                                             
     
