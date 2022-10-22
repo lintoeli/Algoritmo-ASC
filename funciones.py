@@ -76,6 +76,14 @@ def individuoPorConstante(x, c):
         x[i] = x[i]*c
     return x
 
+def corregirIndividuo(x):           #Esto es para que in individuo no tenga atributos por fuera del rango disponible
+    for i in range(len(x)):
+        if x[i] < 0:
+            x[i] = 0
+        elif x[i] > 1:
+            x[i] = 1
+    
+
 #----------------------------------------EVALUACION DE INDIVIDUO Y GENERACION------------------------------------------------------
 
 def funcionG(x):
@@ -169,6 +177,7 @@ def mutacionConVecinos(x, poblacion, pesos):
     aux1 = restarIndividuos(x2, x3)               #x2 - x3
     aux2 = individuoPorConstante(aux1, 0.5)       #F(x2 - x3)
     aux3 = sumarIndividuos(x1, aux2)              #x1 + F(x2 - x3)
+    corregirIndividuo(aux3)
     return aux3
     
 def cruce1(x, poblacion, pesos, probabilidad):     
