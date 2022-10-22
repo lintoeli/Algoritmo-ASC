@@ -55,7 +55,7 @@ def generarPoblacion(numIndividuos=len(pesos)):
         cromosoma = []
         for i in range(30):
             gen = random.random()
-            cromosoma.append(round(gen, 5))       #Numero de decimales a utilizar para cada gen
+            cromosoma.append(gen)       #Numero de decimales a utilizar para cada gen
         poblacion.append(cromosoma)
     return poblacion
 
@@ -107,10 +107,9 @@ def funcionZ(poblacion):
     tupla = (f1,f2)
     return tupla
 
-def gte(x, poblacion, pesos):          #FITNESS
-    index = poblacion.index(x)
-    w = pesos[index]
+def gte(x, poblacion, pesos, i):          #FITNESS
     z = funcionZ(poblacion)
+    w = pesos[i]
     f1 = x[0]
     f2 = funcionF2(x)
     argumento1 = w[0] * abs(f1 - z[0])
@@ -121,14 +120,14 @@ def evaluarGeneracion(poblacion, pesos):        #Obtenemos una lista ordenada po
     lista = []
     for i in range(len(poblacion)):
         x = poblacion[i]
-        fitness = gte(x, poblacion, pesos)
+        fitness = gte(x, poblacion, pesos, i)
         lista.append((i, fitness))
     listaFinal = sorted(lista, key=operator.itemgetter(1))
     return listaFinal
 
-def compararFitness(x, y, poblacion, pesos):
-    fit1 = gte(x, poblacion, pesos)
-    fit2 = gte(y, poblacion, pesos)
+def compararFitness(x, y, poblacion, i):
+    fit1 = gte(x, poblacion, pesos, i)
+    fit2 = gte(y, poblacion, pesos, i)
     if fit1 < fit2:
         return x
     else: 
@@ -272,6 +271,7 @@ y = poblacionPrueba[1]
 v2 = cruce(y, poblacionPrueba, pesos, 0.3)
 print("y = ", y, ", v2 = ", v2)
 '''
+
 '''
 #Mejor individuo global:
 

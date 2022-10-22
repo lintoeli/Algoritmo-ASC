@@ -25,12 +25,13 @@ pesos = [
     (0.65,0.35),
     (0.4,0.6)
 ]
-
-poblacion = funciones.generarPoblacion()
+ 
+poblacionInicial = funciones.generarPoblacion()   #Servira para comparar con los fitness finales
+poblacion = poblacionInicial.copy()
 print(poblacion)
 generaciones = 500
 probCruce = 0.5
-registroGeneraciones = {}                   #Estos registros facilitaran la muestra de datos posteriormente
+registroGeneraciones = {}                         #Estos registros facilitaran la muestra de datos posteriormente
 registroFitnessPorGeneracion = {}
 
 #-------------------------------------------PROCEDIMIENTO------------------------------------------------------------
@@ -38,16 +39,21 @@ registroFitnessPorGeneracion = {}
 for i in range(generaciones):
     registroGeneraciones[i] = poblacion                                     #Comenzamos guardando en el registro
     nextGen = []                                                            #los individuos de la presente generacion
-    for i in range(len(poblacion)):
+    for j in range(len(poblacion)):
         p = random.random()
-        x = poblacion[i]                                                    #Generamos un nuevo individuo mediante
+        x = poblacion[j]                                                    #Generamos un nuevo individuo mediante
         xm = funciones.cruce1(x, poblacion, pesos, probCruce)               #cruce y mutacion, y nos quedamos con el
-        y = funciones.compararFitness(x, xm, poblacion, pesos)                     #mejor entre el nuevo y el original
+        y = funciones.compararFitness(x, xm, pesos, j)                      #mejor entre el nuevo y el original
         nextGen.append(y)
     fitnessGeneracion = funciones.evaluarGeneracion(poblacion, pesos)       #Una vez terminados todos los cruces y
     registroFitnessPorGeneracion[i] = fitnessGeneracion                     #mutaciones, la nueva poblacion con la que
     poblacion = nextGen.copy()                                              #trabajar pasa a ser la lista nextGen para
-                                                                            #la siguiente iteracion
+    print("Comenzando generación ", i+1)                                    #la siguiente iteracion
+
+print("Última generacion: ", poblacion)
+print("Fitness iniciales: ", funciones.evaluarGeneracion(poblacionInicial, pesos))
+print("Fitness finales: ", funciones.evaluarGeneracion(poblacion, pesos))
+                                                                            
 
 
                                                             
