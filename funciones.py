@@ -133,6 +133,16 @@ def evaluarGeneracion(poblacion, pesos):        #Obtenemos una lista ordenada po
     listaFinal = sorted(lista, key=operator.itemgetter(1))
     return listaFinal
 
+def evaluarGeneracionF1F2(poblacion):        #Obtenemos una lista ordenada por el indice del individuo
+    lista = []
+    for i in range(len(poblacion)):
+        x = poblacion[i]
+        f1 = x[0]
+        f2 = funcionF2(x)
+        lista.append((i, f1, f2))
+    listaFinal = sorted(lista)
+    return listaFinal
+
 def compararFitness(x, y, poblacion, i):
     fit1 = gte(x, poblacion, pesos, i)
     fit2 = gte(y, poblacion, pesos, i)

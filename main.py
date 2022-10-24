@@ -33,6 +33,7 @@ generaciones = 500
 probCruce = 0.5
 registroGeneraciones = {}                         #Estos registros facilitaran la muestra de datos posteriormente
 registroFitnessPorGeneracion = {}
+registroF1F2PorGeneracion = {}
 
 #-------------------------------------------PROCEDIMIENTO------------------------------------------------------------
 
@@ -46,13 +47,17 @@ for i in range(generaciones):
         y = funciones.compararFitness(x, xm, pesos, j)                      #mejor entre el nuevo y el original
         nextGen.append(y)
     fitnessGeneracion = funciones.evaluarGeneracion(poblacion, pesos)       #Una vez terminados todos los cruces y
-    registroFitnessPorGeneracion[i] = fitnessGeneracion                     #mutaciones, la nueva poblacion con la que
+    registroFitnessPorGeneracion[i] = fitnessGeneracion
+    f1f2 = funciones.evaluarGeneracionF1F2(poblacion)
+    registroF1F2PorGeneracion[i] = f1f2                                     #mutaciones, la nueva poblacion con la que
     poblacion = nextGen.copy()                                              #trabajar pasa a ser la lista nextGen para
     print("Comenzando generación ", i+1)                                    #la siguiente iteracion
 
 print("Última generacion: ", poblacion)
 print("Fitness iniciales: ", funciones.evaluarGeneracion(poblacionInicial, pesos))
 print("Fitness finales: ", funciones.evaluarGeneracion(poblacion, pesos))
+print("F1 // F2 iniciales: ", registroF1F2PorGeneracion[0])
+print("F1 // F2 finales: ", registroF1F2PorGeneracion[generaciones - 1])
                                                                             
 
 

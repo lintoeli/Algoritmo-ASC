@@ -22,4 +22,5 @@ diccio = {0:[(0, 4), (1, 1), (2, 5), (3, 2)],
 
 items = diccio.items()
 res = funciones.mejorIndividuoGlobal(diccio)
+print(diccio[1])
 print(res)
