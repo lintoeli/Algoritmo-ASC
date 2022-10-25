@@ -139,8 +139,9 @@ def evaluarGeneracionF1F2(poblacion):        #Obtenemos una lista ordenada por e
         x = poblacion[i]
         f1 = x[0]
         f2 = funcionF2(x)
-        lista.append((i, f1, f2))
-    listaFinal = sorted(lista)
+        media = (f1 + f2)/2
+        lista.append((i, f1, f2, media))
+    listaFinal = sorted(lista, key=lambda x:x[3])
     return listaFinal
 
 def compararFitness(x, y, poblacion, i):
@@ -210,6 +211,18 @@ def cruce2(x1, x2, probabilidad):
         else:
             y.append(x2[i])
     return y
+
+#--------------------------------------------OPERACIONES EN FICHERO-------------------------------------------------------
+
+def escribirMetricas(registroFitness, registroF1F2, generacion):
+    mejorFitness = registroFitness[generacion]
+    mejorF1F2 = registroF1F2[generacion]
+    s1 = str("-Generacion Nº " + str(generacion) + '\n')
+    s2 = str("Mejor Fitness de la Generacion = " + str(mejorFitness[0][1]) + " // Individuo: " + str(mejorFitness[0][0]) + '\n')
+    s3 = str("Mejores F1F2 = " + str(mejorF1F2[0][1]) + ', ' + str(mejorF1F2[0][2]) + " // Individuo: " + str(mejorF1F2[0][0]) + '\n')
+    s4 =('----------------------------------------------------------------------------------------------\n')
+    return s1 + s2 + s3 + s4
+    
 
 #--------------------------------------------PRUEBAS------------------------------------------------------------------------
 
@@ -305,9 +318,41 @@ print(res)
 '''
 
 '''
+#Escritura en fichero:
+
+poblacion = generarPoblacion(20)
+poblacion2 = []
+probCruce = 0.6
+
+registroFitness = {}
+registroF1F2 = {}
+
+registroFitness[0] = evaluarGeneracion(poblacion, pesos)
+registroF1F2[0] = evaluarGeneracionF1F2(poblacion)
+
+for i in range(len(poblacion)):
+    p = random.random()
+    x = poblacion[i]
+    xm = cruce1(x, poblacion, pesos, probCruce)             
+    y = compararFitness(x, xm, pesos, i)                    
+    poblacion2.append(y)
+
+registroFitness[1] = evaluarGeneracion(poblacion2, pesos)
+registroF1F2[1] = evaluarGeneracionF1F2(poblacion2)
+
+string = ''
+for j in range(len(registroFitness.items())):
+    string = string + escribirMetricas(registroFitness, registroF1F2, j)
+
+with open('metricas.txt', 'w', encoding = 'utf-8') as f:
+    f.write(string)
+    f.close()
+'''
+
+
+'''
 QUEDA:
 -Mostrar datos en plot
--Iterar por generaciones ***
 -Memoria pdf
 -Reperit todo para el segundo problema
 '''

@@ -1,4 +1,5 @@
 import random
+import string
 import funciones
 
 #-------------------------------------------INICIALIZACION------------------------------------------------------
@@ -35,6 +36,8 @@ registroGeneraciones = {}                         #Estos registros facilitaran l
 registroFitnessPorGeneracion = {}
 registroF1F2PorGeneracion = {}
 
+cadena = ''                                       #String que recogera los datos generacion por generacion
+
 #-------------------------------------------PROCEDIMIENTO------------------------------------------------------------
 
 for i in range(generaciones):
@@ -47,17 +50,22 @@ for i in range(generaciones):
         y = funciones.compararFitness(x, xm, pesos, j)                      #mejor entre el nuevo y el original
         nextGen.append(y)
     fitnessGeneracion = funciones.evaluarGeneracion(poblacion, pesos)       #Una vez terminados todos los cruces y
-    registroFitnessPorGeneracion[i] = fitnessGeneracion
-    f1f2 = funciones.evaluarGeneracionF1F2(poblacion)
-    registroF1F2PorGeneracion[i] = f1f2                                     #mutaciones, la nueva poblacion con la que
-    poblacion = nextGen.copy()                                              #trabajar pasa a ser la lista nextGen para
-    print("Comenzando generación ", i+1)                                    #la siguiente iteracion
+    registroFitnessPorGeneracion[i] = fitnessGeneracion                     #mutaciones, la nueva poblacion con la que
+    f1f2 = funciones.evaluarGeneracionF1F2(poblacion)                       #trabajar pasa a ser la lista nextGen para
+    registroF1F2PorGeneracion[i] = f1f2                                     #la siguiente iteracion
+    poblacion = nextGen.copy()                                              
+    print("Comenzando generación ", i+1)
+    cadena = cadena + funciones.escribirMetricas(registroFitnessPorGeneracion, registroF1F2PorGeneracion, i)                                    
 
 print("Última generacion: ", poblacion)
 print("Fitness iniciales: ", funciones.evaluarGeneracion(poblacionInicial, pesos))
 print("Fitness finales: ", funciones.evaluarGeneracion(poblacion, pesos))
 print("F1 // F2 iniciales: ", registroF1F2PorGeneracion[0])
 print("F1 // F2 finales: ", registroF1F2PorGeneracion[generaciones - 1])
+
+with open('metricas.txt', 'w', encoding = 'utf-8') as f:                    #Escribir en el fichero
+    f.write(cadena)
+    f.close()
                                                                             
 
 
