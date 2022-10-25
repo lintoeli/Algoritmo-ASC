@@ -1,10 +1,9 @@
 import random
-import string
 import funciones
 
 #-------------------------------------------INICIALIZACION------------------------------------------------------
 
-pesos = [
+pesos = [                               #Siempre en paquetes de 20
     (0.9,0.1),
     (0.8,0.2),
     (0.7,0.3),
@@ -26,12 +25,16 @@ pesos = [
     (0.6,0.4),
     (0.55,0.45)
 ]
- 
+
+pesos = pesos * 2                                 #Modificador cantidad de individuos
+
+
+generaciones = int(10000/len(pesos))              #Parametros a establecer
+probCruce = 0.5
+
 poblacionInicial = funciones.generarPoblacion()   #Servira para comparar con los fitness finales
 poblacion = poblacionInicial.copy()
-print(poblacion)
-generaciones = 500
-probCruce = 0.5
+
 registroGeneraciones = {}                         #Estos registros facilitaran la muestra de datos posteriormente
 registroFitnessPorGeneracion = {}
 registroF1F2PorGeneracion = {}
@@ -56,15 +59,8 @@ for i in range(generaciones):
     poblacion = nextGen.copy()                                              
     print("Comenzando generación ", i+1)
     cadena = cadena + funciones.escribirMejoresMetricas(registroFitnessPorGeneracion, registroF1F2PorGeneracion, i)                                    
-'''
-print("Última generacion: ", poblacion)
-print("Fitness iniciales: ", funciones.evaluarGeneracion(poblacionInicial, pesos))
-print("Fitness finales: ", funciones.evaluarGeneracion(poblacion, pesos))
-print("F1 // F2 iniciales: ", registroF1F2PorGeneracion[0])
-print("F1 // F2 finales: ", registroF1F2PorGeneracion[generaciones - 1])
-'''
 
-with open('documentos/mejoresMetricas.txt', 'w', encoding = 'utf-8') as f:                    #Escribir en el fichero
+with open('documentos/resultado.txt', 'w', encoding = 'utf-8') as f:                    #Escribir en el fichero
     f.write(cadena)
     f.close()
                                                                             
