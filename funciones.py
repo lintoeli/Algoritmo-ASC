@@ -6,26 +6,26 @@ import random
 #------------------------------------------------INICIALIZACION--------------------------------------------------------
 
 pesos = [
-    (0.2,0.8),
-    (0.25,0.75),
-    (0.41,0.59),
-    (0.1,0.9),
-    (0.5,0.5),
-    (0.15,0.85),
-    (0.97,0.03),
+    (0.9,0.1),
+    (0.8,0.2),
     (0.7,0.3),
-    (0.65,0.35),
-    (0.4,0.6),
-    (0.2,0.8),
-    (0.25,0.75),
-    (0.41,0.59),
-    (0.1,0.9),
-    (0.5,0.5),
-    (0.15,0.85),
-    (0.97,0.03),
-    (0.7,0.3),
-    (0.65,0.35),
-    (0.4,0.6)
+    (0.95,0.05),
+    (0.96,0.04),
+    (0.75,0.25),
+    (0.85,0.15),
+    (0.67,0.33),
+    (0.79,0.21),
+    (0.91,0.09),
+    (0.95,0.05),
+    (0.88,0.12),
+    (0.74,0.26),
+    (0.57,0.43),
+    (0.92,0.08),
+    (0.99,0.01),
+    (0.77,0.23),
+    (0.71,0.29),
+    (0.6,0.4),
+    (0.55,0.45)
 ]
 
 #----------------------------------OPERACIONES DE VECTORES Y POBLACION-------------------------------------------------
@@ -151,6 +151,20 @@ def compararFitness(x, y, poblacion, i):
         return x
     else: 
         return y
+
+def compararF1F2(x, y, poblacion, i):
+    f1x = x[0]
+    f1y = y[0]
+    f2x = funcionF2(x)
+    f2y = funcionF2(y)
+
+    if (f1x > f1y) and (f2x < f2y):
+        return x
+    elif (f1y > f1x) and (f2y < f2x):
+        return y
+    else:
+        return compararFitness(x, y, poblacion, i)
+        
 
 def mejorIndividuoGlobal(registroFitness):
     items = list(registroFitness.items())               #Si no se castea a list falla, da un error
