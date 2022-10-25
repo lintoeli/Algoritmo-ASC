@@ -24,3 +24,8 @@ items = diccio.items()
 res = funciones.mejorIndividuoGlobal(diccio)
 print(diccio[1])
 print(res)
+
+punto1 = "1.0     2.4"
+punto = punto1.split(' ')
+punto.remove(' ')
+print(punto)

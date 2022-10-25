@@ -1,5 +1,6 @@
 import random
 import funciones
+import matplotlib.pyplot as plt
 
 #-------------------------------------------INICIALIZACION------------------------------------------------------
 
@@ -60,11 +61,24 @@ for i in range(generaciones):
     print("Comenzando generación ", i+1)
     cadena = cadena + funciones.escribirMejoresMetricas(registroFitnessPorGeneracion, registroF1F2PorGeneracion, i)                                    
 
+#-------------------------------------------INTERPRETACION DE DATOS----------------------------------------------------------
 with open('documentos/resultado.txt', 'w', encoding = 'utf-8') as f:                    #Escribir en el fichero
     f.write(cadena)
     f.close()
-                                                                            
 
+puntosFrente = funciones.obtenerPuntosFrente()
+frenteX = puntosFrente[0]
+frenteY = puntosFrente[1]
+
+puntosIndividuosFinales = funciones.obtenerPuntosGeneracion(registroF1F2PorGeneracion, generaciones - 1)
+individuosX = puntosIndividuosFinales[0]
+individuosY = puntosIndividuosFinales[1]
+
+plt.plot(frenteX, frenteY, linewidth = 3)
+plt.plot(individuosX, individuosY, 'o', linewidth = 3, color = 'black')
+plt.xlabel("f1")    
+plt.ylabel("f2")                                                  
+plt.show()
 
                                                             
     

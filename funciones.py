@@ -3,6 +3,7 @@ import operator
 import numpy
 import random
 
+
 #------------------------------------------------INICIALIZACION--------------------------------------------------------
 
 pesos = [
@@ -25,7 +26,7 @@ pesos = [
     (0.77,0.23),
     (0.71,0.29),
     (0.6,0.4),
-    (0.55,0.45),
+    (0.55,0.45)
 ]
 
 #----------------------------------OPERACIONES DE VECTORES Y POBLACION-------------------------------------------------
@@ -237,6 +238,28 @@ def escribirMejoresMetricas(registroFitness, registroF1F2, generacion):
     s4 =('----------------------------------------------------------------------------------------------\n')
     return s1 + s2 + s3 + s4
     
+def obtenerPuntosFrente(fichero = 'documentos/pareto.txt'):
+    x = []
+    y = []
+    with open(fichero, 'r', encoding = 'utf-8') as f:
+        for linea in f:
+            arrayAux = linea.split('\t')
+            f1 = float(arrayAux[0])
+            f2aux = arrayAux[-1].replace("\n", '')
+            f2 = float(f2aux)
+            x.append(f1)
+            y.append(f2)
+        f.close()
+    return [x, y]    
+
+def obtenerPuntosGeneracion(registroF1F2, generacion):
+    x = []
+    y = []
+    poblacion = registroF1F2[generacion]
+    for individuo in poblacion:
+        x.append(individuo[1])
+        y.append(individuo[2])
+    return [x, y]
 
 #--------------------------------------------PRUEBAS------------------------------------------------------------------------
 
@@ -363,6 +386,12 @@ with open('metricas.txt', 'w', encoding = 'utf-8') as f:
     f.close()
 '''
 
+'''
+#Obtener frente:
+
+puntos = obtenerPuntosFrente()
+print(puntos)
+'''
 
 '''
 QUEDA:
