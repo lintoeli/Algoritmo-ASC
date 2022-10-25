@@ -214,7 +214,7 @@ def cruce2(x1, x2, probabilidad):
 
 #--------------------------------------------OPERACIONES EN FICHERO-------------------------------------------------------
 
-def escribirMetricas(registroFitness, registroF1F2, generacion):
+def escribirMejoresMetricas(registroFitness, registroF1F2, generacion):
     mejorFitness = registroFitness[generacion]
     mejorF1F2 = registroF1F2[generacion]
     s1 = str("-Generacion Nº " + str(generacion) + '\n')

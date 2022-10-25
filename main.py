@@ -55,15 +55,16 @@ for i in range(generaciones):
     registroF1F2PorGeneracion[i] = f1f2                                     #la siguiente iteracion
     poblacion = nextGen.copy()                                              
     print("Comenzando generación ", i+1)
-    cadena = cadena + funciones.escribirMetricas(registroFitnessPorGeneracion, registroF1F2PorGeneracion, i)                                    
-
+    cadena = cadena + funciones.escribirMejoresMetricas(registroFitnessPorGeneracion, registroF1F2PorGeneracion, i)                                    
+'''
 print("Última generacion: ", poblacion)
 print("Fitness iniciales: ", funciones.evaluarGeneracion(poblacionInicial, pesos))
 print("Fitness finales: ", funciones.evaluarGeneracion(poblacion, pesos))
 print("F1 // F2 iniciales: ", registroF1F2PorGeneracion[0])
 print("F1 // F2 finales: ", registroF1F2PorGeneracion[generaciones - 1])
+'''
 
-with open('metricas.txt', 'w', encoding = 'utf-8') as f:                    #Escribir en el fichero
+with open('documentos/mejoresMetricas.txt', 'w', encoding = 'utf-8') as f:                    #Escribir en el fichero
     f.write(cadena)
     f.close()
                                                                             
