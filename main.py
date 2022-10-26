@@ -27,11 +27,12 @@ pesos = [                               #Siempre en paquetes de 20
     (0.55,0.45)
 ]
 
-pesos = pesos * 2                                 #Modificador cantidad de individuos
+pesos = pesos * 1                                 #Modificador cantidad de individuos
 
 
 generaciones = int(10000/len(pesos))              #Parametros a establecer
 probCruce = 0.5
+numVecinos = int(3)                                 #Tamaño de la vecindad = 3 (funciona mejor que el 10-30%)
 
 poblacionInicial = funciones.generarPoblacion()   #Servira para comparar con los fitness finales
 poblacion = poblacionInicial.copy()
@@ -50,7 +51,7 @@ for i in range(generaciones):
     for j in range(len(poblacion)):
         p = random.random()
         x = poblacion[j]                                                    #Generamos un nuevo individuo mediante
-        xm = funciones.cruce1(x, poblacion, pesos, probCruce)               #cruce y mutacion, y nos quedamos con el
+        xm = funciones.cruce1(x, poblacion, pesos, probCruce, numVecinos)               #cruce y mutacion, y nos quedamos con el
         y = funciones.compararF1F2(x, xm, pesos, j)                         #mejor entre el nuevo y el original
         nextGen.append(y)
     fitnessGeneracion = funciones.evaluarGeneracion(poblacion, pesos)       #Una vez terminados todos los cruces y
@@ -62,20 +63,22 @@ for i in range(generaciones):
     cadena = cadena + funciones.escribirMejoresMetricas(registroFitnessPorGeneracion, registroF1F2PorGeneracion, i)                                    
 
 #-------------------------------------------INTERPRETACION DE DATOS----------------------------------------------------------
+
 with open('documentos/resultado.txt', 'w', encoding = 'utf-8') as f:                    #Escribir en el fichero
     f.write(cadena)
     f.close()
 
-puntosFrente = funciones.obtenerPuntosFrente()
-frenteX = puntosFrente[0]
+puntosFrente = funciones.obtenerPuntosFrente()                                          #Obtenemos el frente de Pareto
+frenteX = puntosFrente[0]                                                               #ideal
 frenteY = puntosFrente[1]
 
 puntosIndividuosFinales = funciones.obtenerPuntosGeneracion(registroF1F2PorGeneracion, generaciones - 1)
-individuosX = puntosIndividuosFinales[0]
-individuosY = puntosIndividuosFinales[1]
-
-plt.plot(frenteX, frenteY, linewidth = 3)
-plt.plot(individuosX, individuosY, 'o', linewidth = 3, color = 'black')
+individuosX = puntosIndividuosFinales[0]                                                #Obtenemos los valores de f1 y f2
+individuosY = puntosIndividuosFinales[1]                                                #de los individuos de la ultima
+                                                                                        #generacion
+plt.scatter(frenteX, frenteY, s = 6)
+plt.scatter(individuosX, individuosY, s = 5, color = 'black')                 #Construimos la grafica
+plt.margins(0.1)
 plt.xlabel("f1")    
 plt.ylabel("f2")                                                  
 plt.show()

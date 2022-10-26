@@ -184,10 +184,10 @@ def mejorIndividuoGlobal(registroFitness):
 
 #-----------------------------------------------------------------CRUCE Y MUTACION-----------------------------------------------------------------
 
-def mutacionConVecinos(x, poblacion, pesos):
+def mutacionConVecinos(x, poblacion, pesos, numVecinos):
     indiceX = poblacion.index(x)
     pesoX = pesos[indiceX]                         #Obtenemos la vecindad completa de un individuo
-    vecinosX = obtenerVecinos(pesoX, 3)            #NumVecinos = 3   
+    vecinosX = obtenerVecinos(pesoX, numVecinos)            #NumVecinos = 3   
     vecinosX.append(indiceX)                       # + 1 vecino que es el propio individuo = 4 vecinos
     
     n1 = random.choice(vecinosX)
@@ -206,8 +206,8 @@ def mutacionConVecinos(x, poblacion, pesos):
     corregirIndividuo(aux3)
     return aux3
     
-def cruce1(x, poblacion, pesos, probabilidad):     
-    v = mutacionConVecinos(x, poblacion, pesos)
+def cruce1(x, poblacion, pesos, probabilidad, numVecinos):     
+    v = mutacionConVecinos(x, poblacion, pesos, numVecinos)
     y = []                                        
     for i in range(len(x)):
         p = random.random()                       #Se genera un numero aleatorio para decidir si el nuevo valor
