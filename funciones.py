@@ -166,22 +166,6 @@ def compararF1F2(x, y, poblacion, i):
     else:
         return compararFitness(x, y, poblacion, i)
         
-
-def mejorIndividuoGlobal(registroFitness):
-    items = list(registroFitness.items())               #Si no se castea a list falla, da un error
-    mejorFitness = 1000                                 #'dict_items' object is not subscriptable
-    res0 = 0                                            
-    res1 = 0
-    for i in range(len(items)):
-        poblacion = items[i][1]
-        for j in range(len(poblacion)):
-            x = poblacion[j]
-            if x[1] <= mejorFitness:
-                mejorFitness = x[1]
-                res0 = i
-                res1 = j                                #Devolvemos una lista que contiene la generacion,
-    return [res0, res1, mejorFitness]                   #el indice del individuo de esa generacion y el fitness
-
 #-----------------------------------------------------------------CRUCE Y MUTACION-----------------------------------------------------------------
 
 def mutacionConVecinos(x, poblacion, pesos, numVecinos):
@@ -261,6 +245,30 @@ def obtenerPuntosGeneracion(registroF1F2, generacion):
         y.append(individuo[2])
     return [x, y]
 
+def obtenerPuntosTotales(registroF1F2):
+    x = []
+    y = []
+    for i in range(len(list(registroF1F2.items()))):
+        puntosi = obtenerPuntosGeneracion(registroF1F2, i)
+        xi = puntosi[0]
+        yi = puntosi[1]
+        x = x + xi
+        y = y + yi
+    return [x, y]
+
+def obtenerPuntosZDT3(fichero):
+    x = []
+    y = []
+    with open(fichero, 'r', encoding = 'utf-8') as f:
+        for linea in f:
+            arrayAux = linea.split('\t')
+            f1 = float(arrayAux[0])
+            f2aux = arrayAux[1]
+            f2 = float(f2aux)
+            x.append(f1)
+            y.append(f2)
+        f.close()
+    return [x, y] 
 #--------------------------------------------PRUEBAS------------------------------------------------------------------------
 
 '''

@@ -1,5 +1,5 @@
 import funciones
-
+'''
 lista1 = [1, 2, 5, 6, 4]
 lista2 = [9, 3, 7, 3, 8]
 print(lista1, lista2)
@@ -29,3 +29,11 @@ punto1 = "1.0     2.4"
 punto = punto1.split(' ')
 punto.remove(' ')
 print(punto)
+
+puntosZDT3 = funciones.obtenerPuntosZDT3('documentos/salidaZDT3/P100G100.txt')
+print(puntosZDT3)
+'''
+lista1 = [3, 5, 6, 3]
+lista2= [1, 4, 5 ,6]
+
+print(lista2 + lista1)
