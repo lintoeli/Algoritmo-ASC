@@ -103,18 +103,15 @@ def funcionF2(x):
     return f2.real                       #Hay veces que al calcular f2 sale un numero complejo del tipo a + 0*i, lo que impide la ejecucion del if de la funcion Z de abajo
 
 def funcionZ(poblacion):
-    f1 = 100.0
-    f2 = 100.0
+    listaF1 = []
+    listaF2 = []
     for i in range(len(poblacion)):
         x = poblacion[i]
-        f1Aux = x[0]
-        f2Aux = funcionF2(x)
-        if f1Aux < f1:
-            f1 = f1Aux
-        if f2Aux < f2:
-            f2 = f2Aux
-    tupla = (f1,f2)
-    return tupla
+        f1 = x[0]
+        f2 = funcionF2(x)
+        listaF1.append(f1)
+        listaF2.append(f2)
+    return [min(listaF1), min(listaF2)]
 
 def gte(x, poblacion, pesos, i):          #FITNESS
     z = funcionZ(poblacion)

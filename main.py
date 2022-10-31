@@ -52,7 +52,7 @@ for i in range(generaciones):
         p = random.random()
         x = poblacion[j]                                                    #Generamos un nuevo individuo mediante
         xm = funciones.cruce1(x, poblacion, pesos, probCruce, numVecinos)               #cruce y mutacion, y nos quedamos con el
-        y = funciones.compararFitness(x, xm, pesos, j)                         #mejor entre el nuevo y el original
+        y = funciones.compararF1F2(x, xm, pesos, j)                         #mejor entre el nuevo y el original
         nextGen.append(y)
     fitnessGeneracion = funciones.evaluarGeneracion(poblacion, pesos)       #Una vez terminados todos los cruces y
     registroFitnessPorGeneracion[i] = fitnessGeneracion                     #mutaciones, la nueva poblacion con la que
@@ -77,6 +77,7 @@ individuosX = puntosIndividuos[0]                                               
 individuosY = puntosIndividuos[1]                                                #de los individuos de la ultima
                                                                                         #generacion
 plt.scatter(frenteX, frenteY, s = 6)
+
 rutaZDT3 = 'documentos/salidaZDT3/P' + str(len(pesos)) + 'G' + str(generaciones) + '.txt'
 puntosZDT3 = funciones.obtenerPuntosZDT3(rutaZDT3, len(pesos))
 ZDT3X = puntosZDT3[0]
