@@ -27,10 +27,10 @@ pesos = [                               #Siempre en paquetes de 20
     (0.55,0.45)
 ]
 
-pesos = pesos * 2                                  #Modificador cantidad de individuos
+pesos = pesos * 5                                  #Modificador cantidad de individuos
 
 
-generaciones = int(10000/len(pesos))              #Parametros a establecer
+generaciones = int(4000/len(pesos))              #Parametros a establecer
 probCruce = 0.5
 numVecinos = int(generaciones * 0.30)             #Tamaño de la vecindad = 3 (funciona mejor que el 10-30%)
 
@@ -76,14 +76,14 @@ puntosIndividuos = funciones.obtenerPuntosGeneracion(registroF1F2PorGeneracion, 
 individuosX = puntosIndividuos[0]                                                #Obtenemos los valores de f1 y f2
 individuosY = puntosIndividuos[1]                                                #de los individuos de la ultima
                                                                                         #generacion
-plt.scatter(frenteX, frenteY, s = 6)
+plt.scatter(frenteX, frenteY, s = 30)
 
-rutaZDT3 = 'documentos/salidaZDT3/P' + str(len(pesos)) + 'G' + str(generaciones) + '.txt'
+rutaZDT3 = 'documentos/salidaZDT3/4000E/P' + str(len(pesos)) + 'G' + str(generaciones) + '.txt'
 puntosZDT3 = funciones.obtenerPuntosZDT3(rutaZDT3, len(pesos))
 ZDT3X = puntosZDT3[0]
 ZDT3Y = puntosZDT3[1]
-plt.scatter(ZDT3X, ZDT3Y, s = 2, color = 'red')
-plt.scatter(individuosX, individuosY, s = 5, color = 'black')                           #Construimos la grafica 
+plt.scatter(ZDT3X, ZDT3Y, s = 20, color = 'red')
+plt.scatter(individuosX, individuosY, s = 25, color = 'black')                           #Construimos la grafica 
 plt.margins(0.1)
 plt.xlabel("f1")    
 plt.ylabel("f2")                                                  
