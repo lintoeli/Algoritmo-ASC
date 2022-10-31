@@ -256,7 +256,7 @@ def obtenerPuntosTotales(registroF1F2):
         y = y + yi
     return [x, y]
 
-def obtenerPuntosZDT3(fichero):
+def obtenerPuntosZDT3(fichero, numIndividuos):
     x = []
     y = []
     with open(fichero, 'r', encoding = 'utf-8') as f:
@@ -268,7 +268,10 @@ def obtenerPuntosZDT3(fichero):
             x.append(f1)
             y.append(f2)
         f.close()
-    return [x, y] 
+    comienzo = len(x) - numIndividuos
+    xFinal = x[comienzo - 1:]
+    yFinal = y[comienzo - 1:]
+    return [xFinal, yFinal] 
 #--------------------------------------------PRUEBAS------------------------------------------------------------------------
 
 '''

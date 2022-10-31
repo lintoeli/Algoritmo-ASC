@@ -27,7 +27,7 @@ pesos = [                               #Siempre en paquetes de 20
     (0.55,0.45)
 ]
 
-pesos = pesos * 2                                 #Modificador cantidad de individuos
+pesos = pesos * 2                                  #Modificador cantidad de individuos
 
 
 generaciones = int(10000/len(pesos))              #Parametros a establecer
@@ -72,13 +72,13 @@ puntosFrente = funciones.obtenerPuntosFrente()                                  
 frenteX = puntosFrente[0]                                                               #ideal y los puntos para comparar
 frenteY = puntosFrente[1]
 
-puntosIndividuos = funciones.obtenerPuntosTotales(registroF1F2PorGeneracion)
+puntosIndividuos = funciones.obtenerPuntosGeneracion(registroF1F2PorGeneracion, generaciones - 1)
 individuosX = puntosIndividuos[0]                                                #Obtenemos los valores de f1 y f2
 individuosY = puntosIndividuos[1]                                                #de los individuos de la ultima
                                                                                         #generacion
 plt.scatter(frenteX, frenteY, s = 6)
 rutaZDT3 = 'documentos/salidaZDT3/P' + str(len(pesos)) + 'G' + str(generaciones) + '.txt'
-puntosZDT3 = funciones.obtenerPuntosZDT3(rutaZDT3)
+puntosZDT3 = funciones.obtenerPuntosZDT3(rutaZDT3, len(pesos))
 ZDT3X = puntosZDT3[0]
 ZDT3Y = puntosZDT3[1]
 plt.scatter(ZDT3X, ZDT3Y, s = 2, color = 'red')

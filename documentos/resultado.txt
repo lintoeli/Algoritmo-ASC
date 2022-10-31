@@ -1,2000 +1,1000 @@
 -Generacion Nº 0
-Mejor Fitness de la Generacion = 0.14273314292170625 // Individuo: 10
-Mejores F1F2 = 0.6349719161256967, 2.698059432057555 // Individuo: 2
+Mejor Fitness de la Generacion = 0.1993042126771861 // Individuo: 15
+Mejores F1F2 = 0.48336066364392105, 2.268737972723609 // Individuo: 6
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 1
-Mejor Fitness de la Generacion = 0.19510476424011378 // Individuo: 9
-Mejores F1F2 = 0.863312154254366, 2.1663600368492557 // Individuo: 7
+Mejor Fitness de la Generacion = 0.1993042126771861 // Individuo: 15
+Mejores F1F2 = 0.48336066364392105, 2.268737972723609 // Individuo: 6
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 2
-Mejor Fitness de la Generacion = 0.13214572095892643 // Individuo: 10
-Mejores F1F2 = 0.863312154254366, 2.1663600368492557 // Individuo: 7
+Mejor Fitness de la Generacion = 0.19717504434855898 // Individuo: 9
+Mejores F1F2 = 0.8522068095283419, 1.8254091773464114 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 3
-Mejor Fitness de la Generacion = 0.13214572095892643 // Individuo: 10
-Mejores F1F2 = 0.863312154254366, 2.1663600368492557 // Individuo: 7
+Mejor Fitness de la Generacion = 0.2510743384105915 // Individuo: 9
+Mejores F1F2 = 0.8522068095283419, 1.8254091773464114 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 4
-Mejor Fitness de la Generacion = 0.10461174019064219 // Individuo: 10
-Mejores F1F2 = 0.863312154254366, 2.1663600368492557 // Individuo: 7
+Mejor Fitness de la Generacion = 0.23929477582853412 // Individuo: 9
+Mejores F1F2 = 0.8522068095283419, 1.8254091773464114 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 5
-Mejor Fitness de la Generacion = 0.13496892970300028 // Individuo: 10
-Mejores F1F2 = 0.8311769730727261, 1.966413106247466 // Individuo: 12
+Mejor Fitness de la Generacion = 0.23971870441700202 // Individuo: 9
+Mejores F1F2 = 0.8406971168428692, 1.4881569732232858 // Individuo: 6
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 6
-Mejor Fitness de la Generacion = 0.1372938986711807 // Individuo: 10
-Mejores F1F2 = 0.8452040735093592, 1.5127168672384859 // Individuo: 7
+Mejor Fitness de la Generacion = 0.2077126340421033 // Individuo: 9
+Mejores F1F2 = 0.8406971168428692, 1.4881569732232858 // Individuo: 6
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 7
-Mejor Fitness de la Generacion = 0.1372938986711807 // Individuo: 10
-Mejores F1F2 = 0.8452040735093592, 1.5127168672384859 // Individuo: 7
+Mejor Fitness de la Generacion = 0.1769428445585215 // Individuo: 9
+Mejores F1F2 = 0.6470048563971006, 1.7850616107559818 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 8
-Mejor Fitness de la Generacion = 0.1372938986711807 // Individuo: 10
-Mejores F1F2 = 0.8452040735093592, 1.5127168672384859 // Individuo: 7
+Mejor Fitness de la Generacion = 0.11531341051669358 // Individuo: 15
+Mejores F1F2 = 0.8406971168428692, 1.3570053657319046 // Individuo: 6
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 9
-Mejor Fitness de la Generacion = 0.17121692248211773 // Individuo: 9
-Mejores F1F2 = 0.8452040735093592, 1.5019669853626645 // Individuo: 7
+Mejor Fitness de la Generacion = 0.11531341051669358 // Individuo: 15
+Mejores F1F2 = 0.6470048563971006, 1.775696972933048 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 10
-Mejor Fitness de la Generacion = 0.1277127009938029 // Individuo: 14
-Mejores F1F2 = 0.8343184973137838, 1.2080065571637364 // Individuo: 1
+Mejor Fitness de la Generacion = 0.029804615890267425 // Individuo: 18
+Mejores F1F2 = 0.46430386092277864, 1.59760199944161 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 11
-Mejor Fitness de la Generacion = 0.08402318207265437 // Individuo: 3
-Mejores F1F2 = 0.8343184973137838, 1.2080065571637364 // Individuo: 1
+Mejor Fitness de la Generacion = 0.029804615890267425 // Individuo: 18
+Mejores F1F2 = 0.46430386092277864, 1.59760199944161 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 12
-Mejor Fitness de la Generacion = 0.0652807493910851 // Individuo: 3
-Mejores F1F2 = 0.8343184973137838, 1.2080065571637364 // Individuo: 1
+Mejor Fitness de la Generacion = 0.08362620557995935 // Individuo: 0
+Mejores F1F2 = 0.6558973345723662, 1.3443887734191788 // Individuo: 10
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 13
-Mejor Fitness de la Generacion = 0.06035470199256415 // Individuo: 15
-Mejores F1F2 = 0.8343184973137838, 1.0967810593090415 // Individuo: 1
+Mejor Fitness de la Generacion = 0.056225052085677324 // Individuo: 0
+Mejores F1F2 = 0.8522068095283419, 0.981294768729474 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 14
-Mejor Fitness de la Generacion = 0.06035470199256415 // Individuo: 15
-Mejores F1F2 = 0.8343184973137838, 1.0967810593090415 // Individuo: 1
+Mejor Fitness de la Generacion = 0.056225052085677324 // Individuo: 0
+Mejores F1F2 = 0.8522068095283419, 0.981294768729474 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 15
-Mejor Fitness de la Generacion = 0.06035470199256415 // Individuo: 15
-Mejores F1F2 = 0.8343184973137838, 1.0967810593090415 // Individuo: 1
+Mejor Fitness de la Generacion = 0.07661313763136578 // Individuo: 0
+Mejores F1F2 = 0.8515203254207062, 0.7774139132725895 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 16
-Mejor Fitness de la Generacion = 0.06035470199256415 // Individuo: 15
-Mejores F1F2 = 0.8343184973137838, 1.0967810593090415 // Individuo: 1
+Mejor Fitness de la Generacion = 0.07661313763136578 // Individuo: 0
+Mejores F1F2 = 0.8515203254207062, 0.7774139132725895 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 17
-Mejor Fitness de la Generacion = 0.06035470199256415 // Individuo: 15
-Mejores F1F2 = 0.6321092131582218, 1.17449239360717 // Individuo: 11
+Mejor Fitness de la Generacion = 0.07329288052715092 // Individuo: 0
+Mejores F1F2 = 0.8515203254207062, 0.810616484314738 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 18
-Mejor Fitness de la Generacion = 0.02527219722464221 // Individuo: 15
-Mejores F1F2 = 0.8597606555083102, 0.9320896378349041 // Individuo: 17
+Mejor Fitness de la Generacion = 0.07329288052715092 // Individuo: 0
+Mejores F1F2 = 0.8515203254207062, 0.810616484314738 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 19
-Mejor Fitness de la Generacion = 0.021141242329630456 // Individuo: 15
-Mejores F1F2 = 0.8597606555083102, 0.9320896378349041 // Individuo: 17
+Mejor Fitness de la Generacion = 0.07329288052715092 // Individuo: 0
+Mejores F1F2 = 0.8515203254207062, 0.810616484314738 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 20
-Mejor Fitness de la Generacion = 0.021141242329630456 // Individuo: 15
-Mejores F1F2 = 0.83571647953714, 0.952300593952862 // Individuo: 13
+Mejor Fitness de la Generacion = 0.07329288052715092 // Individuo: 0
+Mejores F1F2 = 0.825683567218767, 0.819218441995573 // Individuo: 16
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 21
-Mejor Fitness de la Generacion = 0.021777031241544894 // Individuo: 15
-Mejores F1F2 = 0.8504564573916136, 0.86851074664346 // Individuo: 13
+Mejor Fitness de la Generacion = 0.07082017106201687 // Individuo: 0
+Mejores F1F2 = 0.825683567218767, 0.819218441995573 // Individuo: 16
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 22
-Mejor Fitness de la Generacion = 0.021777031241544894 // Individuo: 15
-Mejores F1F2 = 0.8504564573916136, 0.86851074664346 // Individuo: 13
+Mejor Fitness de la Generacion = 0.07911332854403777 // Individuo: 0
+Mejores F1F2 = 0.8668975454439718, 0.727684909494529 // Individuo: 5
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 23
-Mejor Fitness de la Generacion = 0.021777031241544894 // Individuo: 15
-Mejores F1F2 = 0.8504564573916136, 0.86851074664346 // Individuo: 13
+Mejor Fitness de la Generacion = 0.07911332854403777 // Individuo: 0
+Mejores F1F2 = 0.8668975454439718, 0.727684909494529 // Individuo: 5
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 24
-Mejor Fitness de la Generacion = 0.022673360393635242 // Individuo: 15
-Mejores F1F2 = 0.8452040735093592, 0.7788778314344253 // Individuo: 7
+Mejor Fitness de la Generacion = 0.07928666342621238 // Individuo: 0
+Mejores F1F2 = 0.8451130989280481, 0.7259515606727829 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 25
-Mejor Fitness de la Generacion = 0.022673360393635242 // Individuo: 15
-Mejores F1F2 = 0.8452040735093592, 0.7788778314344253 // Individuo: 7
+Mejor Fitness de la Generacion = 0.09763765220182309 // Individuo: 0
+Mejores F1F2 = 0.825683567218767, 0.5424416729166758 // Individuo: 16
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 26
-Mejor Fitness de la Generacion = 0.023542629068779013 // Individuo: 15
-Mejores F1F2 = 0.8359062869937135, 0.6919509639200485 // Individuo: 16
+Mejor Fitness de la Generacion = 0.0988394341931818 // Individuo: 15
+Mejores F1F2 = 0.825683567218767, 0.5424416729166758 // Individuo: 16
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 27
-Mejor Fitness de la Generacion = 0.024093653407256114 // Individuo: 15
-Mejores F1F2 = 0.8452040735093592, 0.636848530072338 // Individuo: 7
+Mejor Fitness de la Generacion = 0.0988394341931818 // Individuo: 15
+Mejores F1F2 = 0.825683567218767, 0.5424416729166758 // Individuo: 16
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 28
-Mejor Fitness de la Generacion = 0.023520069207883142 // Individuo: 15
-Mejores F1F2 = 0.8452040735093592, 0.636848530072338 // Individuo: 7
+Mejor Fitness de la Generacion = 0.0988394341931818 // Individuo: 15
+Mejores F1F2 = 0.6537211108588442, 0.6156498567749908 // Individuo: 11
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 29
-Mejor Fitness de la Generacion = 0.02182497013985962 // Individuo: 15
-Mejores F1F2 = 0.8452040735093592, 0.636848530072338 // Individuo: 7
+Mejor Fitness de la Generacion = 0.0988394341931818 // Individuo: 15
+Mejores F1F2 = 0.6537211108588442, 0.6156498567749908 // Individuo: 11
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 30
-Mejor Fitness de la Generacion = 0.02182497013985962 // Individuo: 15
-Mejores F1F2 = 0.8452040735093592, 0.636848530072338 // Individuo: 7
+Mejor Fitness de la Generacion = 0.0988394341931818 // Individuo: 15
+Mejores F1F2 = 0.6537211108588442, 0.6156498567749908 // Individuo: 11
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 31
-Mejor Fitness de la Generacion = 0.06388237402089905 // Individuo: 15
-Mejores F1F2 = 0.8359062869937135, 0.614189784982614 // Individuo: 16
+Mejor Fitness de la Generacion = 0.0852182398507609 // Individuo: 0
+Mejores F1F2 = 0.6537211108588442, 0.6156498567749908 // Individuo: 11
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 32
-Mejor Fitness de la Generacion = 0.06388237402089905 // Individuo: 15
-Mejores F1F2 = 0.8445725410171552, 0.445271406451721 // Individuo: 8
+Mejor Fitness de la Generacion = 0.015986112845493176 // Individuo: 15
+Mejores F1F2 = 0.6537211108588442, 0.6156498567749908 // Individuo: 11
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 33
-Mejor Fitness de la Generacion = 0.06388237402089905 // Individuo: 15
-Mejores F1F2 = 0.8445725410171552, 0.445271406451721 // Individuo: 8
+Mejor Fitness de la Generacion = 0.0144777239542693 // Individuo: 15
+Mejores F1F2 = 0.6429120692766228, 0.6311646276777066 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 34
-Mejor Fitness de la Generacion = 0.01753494092095697 // Individuo: 15
-Mejores F1F2 = 0.8359062869937135, 0.588196939224287 // Individuo: 16
+Mejor Fitness de la Generacion = 0.015677430593995772 // Individuo: 15
+Mejores F1F2 = 0.8564564440457495, 0.32013616448930443 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 35
-Mejor Fitness de la Generacion = 0.020688577563886687 // Individuo: 15
-Mejores F1F2 = 0.8504564573916136, 0.2728332749313152 // Individuo: 13
+Mejor Fitness de la Generacion = 0.013229020024805416 // Individuo: 15
+Mejores F1F2 = 0.6649791897607384, 0.5049185342842714 // Individuo: 2
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 36
-Mejor Fitness de la Generacion = 0.02036030408887967 // Individuo: 15
-Mejores F1F2 = 0.8504564573916136, 0.2728332749313152 // Individuo: 13
+Mejor Fitness de la Generacion = 0.013229020024805416 // Individuo: 15
+Mejores F1F2 = 0.6649791897607384, 0.5049185342842714 // Individuo: 2
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 37
-Mejor Fitness de la Generacion = 0.01947707008385975 // Individuo: 15
-Mejores F1F2 = 0.8504564573916136, 0.36115667543330715 // Individuo: 13
+Mejor Fitness de la Generacion = 0.013602387106852347 // Individuo: 15
+Mejores F1F2 = 0.8333037852154905, 0.28279945628461123 // Individuo: 1
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 38
-Mejor Fitness de la Generacion = 0.017428670540497612 // Individuo: 15
-Mejores F1F2 = 0.8504564573916136, 0.36115667543330715 // Individuo: 13
+Mejor Fitness de la Generacion = 0.013840489141259437 // Individuo: 15
+Mejores F1F2 = 0.837745410256102, 0.3237051689365634 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 39
-Mejor Fitness de la Generacion = 0.017784223273658965 // Individuo: 15
-Mejores F1F2 = 0.8703816422565027, 0.3256014021171717 // Individuo: 18
+Mejor Fitness de la Generacion = 0.013430262694776018 // Individuo: 15
+Mejores F1F2 = 0.6429120692766228, 0.45369241176575 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 40
-Mejor Fitness de la Generacion = 0.017022374948054034 // Individuo: 15
-Mejores F1F2 = 0.6386693162812678, 0.3694916222810764 // Individuo: 8
+Mejor Fitness de la Generacion = 0.013093259197940497 // Individuo: 15
+Mejores F1F2 = 0.6429120692766228, 0.45369241176575 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 41
-Mejor Fitness de la Generacion = 0.018178947082895667 // Individuo: 15
-Mejores F1F2 = 0.6386693162812678, 0.3694916222810764 // Individuo: 8
+Mejor Fitness de la Generacion = 0.013684916790963762 // Individuo: 15
+Mejores F1F2 = 0.6429120692766228, 0.45369241176575 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 42
-Mejor Fitness de la Generacion = 0.018178947082895667 // Individuo: 15
-Mejores F1F2 = 0.6386693162812678, 0.3694916222810764 // Individuo: 8
+Mejor Fitness de la Generacion = 0.010780771206077028 // Individuo: 15
+Mejores F1F2 = 0.6429120692766228, 0.45369241176575 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 43
-Mejor Fitness de la Generacion = 0.018178947082895667 // Individuo: 15
-Mejores F1F2 = 0.6386693162812678, 0.3694916222810764 // Individuo: 8
+Mejor Fitness de la Generacion = 0.012588578981386824 // Individuo: 15
+Mejores F1F2 = 0.6429120692766228, 0.45369241176575 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 44
-Mejor Fitness de la Generacion = 0.02031553886010414 // Individuo: 15
-Mejores F1F2 = 0.8703816422565027, -0.0037149890878389502 // Individuo: 18
+Mejor Fitness de la Generacion = 0.01387844113659574 // Individuo: 15
+Mejores F1F2 = 0.8337427666463127, 0.20189920903839628 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 45
-Mejor Fitness de la Generacion = 0.019756415664162478 // Individuo: 15
-Mejores F1F2 = 0.8703816422565027, 0.052197330506327674 // Individuo: 18
+Mejor Fitness de la Generacion = 0.014789187665388006 // Individuo: 15
+Mejores F1F2 = 0.6381927676130157, 0.11082455615916954 // Individuo: 14
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 46
-Mejor Fitness de la Generacion = 0.01885673741842291 // Individuo: 15
-Mejores F1F2 = 0.8583983631233306, 0.13602838399990924 // Individuo: 18
+Mejor Fitness de la Generacion = 0.015190769150055605 // Individuo: 15
+Mejores F1F2 = 0.6381927676130157, 0.11082455615916954 // Individuo: 14
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 47
-Mejor Fitness de la Generacion = 0.017137581903125153 // Individuo: 15
-Mejores F1F2 = 0.8583983631233306, 0.13602838399990924 // Individuo: 18
+Mejor Fitness de la Generacion = 0.01434326655293057 // Individuo: 15
+Mejores F1F2 = 0.6420166675045806, 0.4324725112066725 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 48
-Mejor Fitness de la Generacion = 0.017137581903125153 // Individuo: 15
-Mejores F1F2 = 0.8583983631233306, 0.13602838399990924 // Individuo: 18
+Mejor Fitness de la Generacion = 0.01434326655293057 // Individuo: 15
+Mejores F1F2 = 0.6420166675045806, 0.4324725112066725 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 49
-Mejor Fitness de la Generacion = 0.017137581903125153 // Individuo: 15
-Mejores F1F2 = 0.8583983631233306, 0.13602838399990924 // Individuo: 18
+Mejor Fitness de la Generacion = 0.014457872910890185 // Individuo: 15
+Mejores F1F2 = 0.639398378453639, 0.31386817122514965 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 50
-Mejor Fitness de la Generacion = 0.017137581903125153 // Individuo: 15
-Mejores F1F2 = 0.8583983631233306, 0.13602838399990924 // Individuo: 18
+Mejor Fitness de la Generacion = 0.015373722362783088 // Individuo: 15
+Mejores F1F2 = 0.639398378453639, 0.31386817122514965 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 51
-Mejor Fitness de la Generacion = 0.01750620610100147 // Individuo: 15
-Mejores F1F2 = 0.8583983631233306, 0.09916596421227762 // Individuo: 18
+Mejor Fitness de la Generacion = 0.013177351942131564 // Individuo: 15
+Mejores F1F2 = 0.639398378453639, 0.31386817122514965 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 52
-Mejor Fitness de la Generacion = 0.04660386354219174 // Individuo: 15
-Mejores F1F2 = 0.8583983631233306, 0.09916596421227762 // Individuo: 18
+Mejor Fitness de la Generacion = 0.013241252690126002 // Individuo: 15
+Mejores F1F2 = 0.639398378453639, 0.31386817122514965 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 53
-Mejor Fitness de la Generacion = 0.04660386354219174 // Individuo: 15
-Mejores F1F2 = 0.647115259129754, 0.21225341983533313 // Individuo: 17
+Mejor Fitness de la Generacion = 0.015301671432381005 // Individuo: 15
+Mejores F1F2 = 0.639398378453639, 0.31386817122514965 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 54
-Mejor Fitness de la Generacion = 0.04660386354219174 // Individuo: 15
-Mejores F1F2 = 0.647115259129754, 0.21225341983533313 // Individuo: 17
+Mejor Fitness de la Generacion = 0.017427444268326844 // Individuo: 15
+Mejores F1F2 = 0.8337427666463127, 0.05076096101130203 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 55
-Mejor Fitness de la Generacion = 0.04660386354219174 // Individuo: 15
-Mejores F1F2 = 0.647115259129754, 0.21225341983533313 // Individuo: 17
+Mejor Fitness de la Generacion = 0.017343135749990354 // Individuo: 15
+Mejores F1F2 = 0.8337427666463127, 0.05919181284495108 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 56
-Mejor Fitness de la Generacion = 0.04660386354219174 // Individuo: 15
-Mejores F1F2 = 0.647115259129754, 0.21225341983533313 // Individuo: 17
+Mejor Fitness de la Generacion = 0.0148691581642745 // Individuo: 15
+Mejores F1F2 = 0.6336418010187173, 0.2862649670964135 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 57
-Mejor Fitness de la Generacion = 0.04660386354219174 // Individuo: 15
-Mejores F1F2 = 0.8583983631233306, -0.1555833016320117 // Individuo: 18
+Mejor Fitness de la Generacion = 0.0148691581642745 // Individuo: 15
+Mejores F1F2 = 0.6336418010187173, 0.2862649670964135 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 58
-Mejor Fitness de la Generacion = 0.04660386354219174 // Individuo: 15
-Mejores F1F2 = 0.8583983631233306, -0.1555833016320117 // Individuo: 18
+Mejor Fitness de la Generacion = 0.0148691581642745 // Individuo: 15
+Mejores F1F2 = 0.6336418010187173, 0.2862649670964135 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 59
-Mejor Fitness de la Generacion = 0.04660386354219174 // Individuo: 15
-Mejores F1F2 = 0.8583983631233306, -0.1555833016320117 // Individuo: 18
+Mejor Fitness de la Generacion = 0.016060556915329854 // Individuo: 15
+Mejores F1F2 = 0.6336418010187173, 0.2862649670964135 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 60
-Mejor Fitness de la Generacion = 0.04660386354219174 // Individuo: 15
-Mejores F1F2 = 0.8583983631233306, -0.1555833016320117 // Individuo: 18
+Mejor Fitness de la Generacion = 0.017397202666322657 // Individuo: 15
+Mejores F1F2 = 0.8564564440457495, -0.033785658123246305 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 61
-Mejor Fitness de la Generacion = 0.04660386354219174 // Individuo: 15
-Mejores F1F2 = 0.8583983631233306, -0.1555833016320117 // Individuo: 18
+Mejor Fitness de la Generacion = 0.018725775345603494 // Individuo: 15
+Mejores F1F2 = 0.8564564440457495, -0.033785658123246305 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 62
-Mejor Fitness de la Generacion = 0.04660386354219174 // Individuo: 15
-Mejores F1F2 = 0.66185291241287, 0.11798633539764151 // Individuo: 2
+Mejor Fitness de la Generacion = 0.018725775345603494 // Individuo: 15
+Mejores F1F2 = 0.8564564440457495, -0.033785658123246305 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 63
-Mejor Fitness de la Generacion = 0.04660386354219174 // Individuo: 15
-Mejores F1F2 = 0.66185291241287, 0.11798633539764151 // Individuo: 2
+Mejor Fitness de la Generacion = 0.018867643682702846 // Individuo: 15
+Mejores F1F2 = 0.8564564440457495, -0.047972491833181675 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 64
-Mejor Fitness de la Generacion = 0.04660386354219174 // Individuo: 15
-Mejores F1F2 = 0.66185291241287, 0.11798633539764151 // Individuo: 2
+Mejor Fitness de la Generacion = 0.0181928781538041 // Individuo: 15
+Mejores F1F2 = 0.6517131837392236, 0.052581149516912444 // Individuo: 5
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 65
-Mejor Fitness de la Generacion = 0.04449433800153951 // Individuo: 3
-Mejores F1F2 = 0.66185291241287, 0.21899597610443045 // Individuo: 2
+Mejor Fitness de la Generacion = 0.018468616410768923 // Individuo: 15
+Mejores F1F2 = 0.639398378453639, 0.049777889344760226 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 66
-Mejor Fitness de la Generacion = 0.04413916329469339 // Individuo: 3
-Mejores F1F2 = 0.6487880426647448, 0.21014476042660404 // Individuo: 7
+Mejor Fitness de la Generacion = 0.0183515423397639 // Individuo: 15
+Mejores F1F2 = 0.639398378453639, 0.049777889344760226 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 67
-Mejor Fitness de la Generacion = 0.04413916329469339 // Individuo: 3
-Mejores F1F2 = 0.6487880426647448, 0.21014476042660404 // Individuo: 7
+Mejor Fitness de la Generacion = 0.017638390747073317 // Individuo: 15
+Mejores F1F2 = 0.639398378453639, 0.049777889344760226 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 68
-Mejor Fitness de la Generacion = 0.04413916329469339 // Individuo: 3
-Mejores F1F2 = 0.6487880426647448, 0.21014476042660404 // Individuo: 7
+Mejor Fitness de la Generacion = 0.017460007838120798 // Individuo: 15
+Mejores F1F2 = 0.6441566549821491, 0.011684772474830227 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 69
-Mejor Fitness de la Generacion = 0.04413916329469339 // Individuo: 3
-Mejores F1F2 = 0.6487880426647448, 0.21014476042660404 // Individuo: 7
+Mejor Fitness de la Generacion = 0.01612731609652676 // Individuo: 15
+Mejores F1F2 = 0.6441566549821491, 0.011684772474830227 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 70
-Mejor Fitness de la Generacion = 0.04413916329469339 // Individuo: 3
-Mejores F1F2 = 0.6487880426647448, 0.21014476042660404 // Individuo: 7
+Mejor Fitness de la Generacion = 0.01418366335667441 // Individuo: 15
+Mejores F1F2 = 0.639398378453639, 0.049777889344760226 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 71
-Mejor Fitness de la Generacion = 0.03728453472955733 // Individuo: 3
-Mejores F1F2 = 0.6461677563531717, 0.19040779506490246 // Individuo: 13
+Mejor Fitness de la Generacion = 0.013391877987548949 // Individuo: 15
+Mejores F1F2 = 0.639398378453639, 0.049777889344760226 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 72
-Mejor Fitness de la Generacion = 0.04275782623046918 // Individuo: 3
-Mejores F1F2 = 0.66185291241287, 0.08094196504666563 // Individuo: 2
+Mejor Fitness de la Generacion = 0.013274010132311654 // Individuo: 15
+Mejores F1F2 = 0.6550600307543151, 0.061564674868489766 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 73
-Mejor Fitness de la Generacion = 0.03858304166379813 // Individuo: 3
-Mejores F1F2 = 0.6344748162646182, 0.17683642183821863 // Individuo: 17
+Mejor Fitness de la Generacion = 0.013188377694743696 // Individuo: 15
+Mejores F1F2 = 0.639398378453639, 0.08118198746464926 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 74
-Mejor Fitness de la Generacion = 0.03809320011660711 // Individuo: 3
-Mejores F1F2 = 0.6461677563531717, 0.174234487323907 // Individuo: 13
+Mejor Fitness de la Generacion = 0.012330968678903192 // Individuo: 15
+Mejores F1F2 = 0.639398378453639, 0.08118198746464926 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 75
-Mejor Fitness de la Generacion = 0.047940930847348476 // Individuo: 3
-Mejores F1F2 = 0.6461677563531717, -0.0227201272909203 // Individuo: 13
+Mejor Fitness de la Generacion = 0.014476706044650914 // Individuo: 15
+Mejores F1F2 = 0.639398378453639, 0.08118198746464926 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 76
-Mejor Fitness de la Generacion = 0.047940930847348476 // Individuo: 3
-Mejores F1F2 = 0.6461677563531717, -0.0227201272909203 // Individuo: 13
+Mejor Fitness de la Generacion = 0.015967183938299552 // Individuo: 15
+Mejores F1F2 = 0.6370255227242605, 0.0500117340899762 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 77
-Mejor Fitness de la Generacion = 0.047940930847348476 // Individuo: 3
-Mejores F1F2 = 0.6461677563531717, -0.0227201272909203 // Individuo: 13
+Mejor Fitness de la Generacion = 0.015967183938299552 // Individuo: 15
+Mejores F1F2 = 0.6370255227242605, 0.0500117340899762 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 78
-Mejor Fitness de la Generacion = 0.03995315639654663 // Individuo: 3
-Mejores F1F2 = 0.6315450759821956, 0.13703536172511652 // Individuo: 19
+Mejor Fitness de la Generacion = 0.01609824424356578 // Individuo: 15
+Mejores F1F2 = 0.6531261982121315, 0.0665753700338533 // Individuo: 1
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 79
-Mejor Fitness de la Generacion = 0.03862645045528452 // Individuo: 3
-Mejores F1F2 = 0.6315450759821956, 0.13703536172511652 // Individuo: 19
+Mejor Fitness de la Generacion = 0.01104953918860969 // Individuo: 15
+Mejores F1F2 = 0.6379377082838282, 0.08998966734292287 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 80
-Mejor Fitness de la Generacion = 0.04212486924702311 // Individuo: 3
-Mejores F1F2 = 0.6406393736828454, 0.06706698589034471 // Individuo: 16
+Mejor Fitness de la Generacion = 0.012216469379874187 // Individuo: 15
+Mejores F1F2 = 0.6379377082838282, 0.08998966734292287 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 81
-Mejor Fitness de la Generacion = 0.033759531750801756 // Individuo: 3
-Mejores F1F2 = 0.6315450759821956, 0.13703536172511652 // Individuo: 19
+Mejor Fitness de la Generacion = 0.012533934941932336 // Individuo: 15
+Mejores F1F2 = 0.644818413825398, 0.05824311113710775 // Individuo: 5
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 82
-Mejor Fitness de la Generacion = 0.0345205209882445 // Individuo: 3
-Mejores F1F2 = 0.6333818443213126, 0.1218155769762617 // Individuo: 2
+Mejor Fitness de la Generacion = 0.012325080698670046 // Individuo: 15
+Mejores F1F2 = 0.6509654305131146, 0.0791285354633368 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 83
-Mejor Fitness de la Generacion = 0.03727637002421091 // Individuo: 3
-Mejores F1F2 = 0.6333818443213126, 0.1218155769762617 // Individuo: 2
+Mejor Fitness de la Generacion = 0.012325080698670046 // Individuo: 15
+Mejores F1F2 = 0.6509654305131146, 0.0791285354633368 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 84
-Mejor Fitness de la Generacion = 0.0416294801032808 // Individuo: 3
-Mejores F1F2 = 0.6461677563531717, 0.06584550652804602 // Individuo: 13
+Mejor Fitness de la Generacion = 0.01329383525897422 // Individuo: 15
+Mejores F1F2 = 0.6425884915668976, 0.12808910944380297 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 85
-Mejor Fitness de la Generacion = 0.044071020542411216 // Individuo: 3
-Mejores F1F2 = 0.6461677563531717, 0.04279034557577577 // Individuo: 13
+Mejor Fitness de la Generacion = 0.012445328832163524 // Individuo: 15
+Mejores F1F2 = 0.6425884915668976, 0.12808910944380297 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 86
-Mejor Fitness de la Generacion = 0.038258704455482864 // Individuo: 3
-Mejores F1F2 = 0.64084240483066, 0.08096023166001 // Individuo: 7
+Mejor Fitness de la Generacion = 0.011969234615539137 // Individuo: 15
+Mejores F1F2 = 0.6425884915668976, 0.12808910944380297 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 87
-Mejor Fitness de la Generacion = 0.036686894174288796 // Individuo: 3
-Mejores F1F2 = 0.6382751480322459, 0.11239643728389136 // Individuo: 7
+Mejor Fitness de la Generacion = 0.014087889842276567 // Individuo: 15
+Mejores F1F2 = 0.6405379238045189, 0.08232574305706654 // Individuo: 1
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 88
-Mejor Fitness de la Generacion = 0.039799989842608116 // Individuo: 3
-Mejores F1F2 = 0.6448597527368255, 0.05751564148691466 // Individuo: 18
+Mejor Fitness de la Generacion = 0.014047957328535799 // Individuo: 15
+Mejores F1F2 = 0.644818413825398, 0.13956485421788906 // Individuo: 5
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 89
-Mejor Fitness de la Generacion = 0.03866597039127134 // Individuo: 3
-Mejores F1F2 = 0.6461677563531717, 0.08019603051365015 // Individuo: 13
+Mejor Fitness de la Generacion = 0.014047957328535799 // Individuo: 15
+Mejores F1F2 = 0.644818413825398, 0.13956485421788906 // Individuo: 5
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 90
-Mejor Fitness de la Generacion = 0.032998387799529245 // Individuo: 3
-Mejores F1F2 = 0.6461677563531717, 0.012627264662676007 // Individuo: 13
+Mejor Fitness de la Generacion = 0.014347047915884648 // Individuo: 15
+Mejores F1F2 = 0.6278925045581271, 0.10965579548300411 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 91
-Mejor Fitness de la Generacion = 0.03242543585166168 // Individuo: 3
-Mejores F1F2 = 0.6461677563531717, 0.02408630362002726 // Individuo: 13
+Mejor Fitness de la Generacion = 0.015004155447158428 // Individuo: 15
+Mejores F1F2 = 0.6456979693611243, 0.0439450423556263 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 92
-Mejor Fitness de la Generacion = 0.04289310093478535 // Individuo: 3
-Mejores F1F2 = 0.6247139790006074, 0.1720597493537253 // Individuo: 16
+Mejor Fitness de la Generacion = 0.013256438142458754 // Individuo: 15
+Mejores F1F2 = 0.644818413825398, 0.07283086635732375 // Individuo: 5
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 93
-Mejor Fitness de la Generacion = 0.05127201437393043 // Individuo: 3
-Mejores F1F2 = 0.6448597527368255, 0.0038949641100284116 // Individuo: 18
+Mejor Fitness de la Generacion = 0.014407214251201172 // Individuo: 15
+Mejores F1F2 = 0.644818413825398, 0.07283086635732375 // Individuo: 5
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 94
-Mejor Fitness de la Generacion = 0.05127201437393043 // Individuo: 3
-Mejores F1F2 = 0.6448597527368255, 0.0038949641100284116 // Individuo: 18
+Mejor Fitness de la Generacion = 0.014823955048115846 // Individuo: 15
+Mejores F1F2 = 0.653128872432043, 0.031156786665856438 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 95
-Mejor Fitness de la Generacion = 0.043111771475959015 // Individuo: 3
-Mejores F1F2 = 0.6382751480322459, 0.06097342624877715 // Individuo: 7
+Mejor Fitness de la Generacion = 0.014823955048115846 // Individuo: 15
+Mejores F1F2 = 0.653128872432043, 0.031156786665856438 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 96
-Mejor Fitness de la Generacion = 0.04356518014117763 // Individuo: 3
-Mejores F1F2 = 0.6296121412430492, 0.05190525294440481 // Individuo: 18
+Mejor Fitness de la Generacion = 0.012159173446977884 // Individuo: 15
+Mejores F1F2 = 0.6278925045581271, 0.04215371608500362 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 97
-Mejor Fitness de la Generacion = 0.04315769123971285 // Individuo: 3
-Mejores F1F2 = 0.6296121412430492, 0.06005503097370031 // Individuo: 18
+Mejor Fitness de la Generacion = 0.012958383435460566 // Individuo: 15
+Mejores F1F2 = 0.6278925045581271, 0.005511861029172419 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 98
-Mejor Fitness de la Generacion = 0.03304646597236804 // Individuo: 3
-Mejores F1F2 = 0.6333818443213126, 0.09656757975215492 // Individuo: 2
+Mejor Fitness de la Generacion = 0.012958383435460566 // Individuo: 15
+Mejores F1F2 = 0.6278925045581271, 0.005511861029172419 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 99
-Mejor Fitness de la Generacion = 0.03673740539860678 // Individuo: 3
-Mejores F1F2 = 0.6333818443213126, 0.09656757975215492 // Individuo: 2
+Mejor Fitness de la Generacion = 0.014348615325705055 // Individuo: 15
+Mejores F1F2 = 0.644818413825398, 0.049931218413376915 // Individuo: 5
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 100
-Mejor Fitness de la Generacion = 0.03587707432858228 // Individuo: 3
-Mejores F1F2 = 0.6304006712271364, 0.08147360199704383 // Individuo: 17
+Mejor Fitness de la Generacion = 0.01460953032900096 // Individuo: 15
+Mejores F1F2 = 0.6425884915668976, 0.023839718083786435 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 101
-Mejor Fitness de la Generacion = 0.03905319368225806 // Individuo: 3
-Mejores F1F2 = 0.6333818443213126, 0.0179512149235283 // Individuo: 2
+Mejor Fitness de la Generacion = 0.014181799573942533 // Individuo: 15
+Mejores F1F2 = 0.6425884915668976, 0.06726336953382332 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 102
-Mejor Fitness de la Generacion = 0.04436334250007502 // Individuo: 3
-Mejores F1F2 = 0.6333818443213126, -0.08825176143281094 // Individuo: 2
+Mejor Fitness de la Generacion = 0.014271607801756448 // Individuo: 15
+Mejores F1F2 = 0.6456979693611243, 0.036206641670178466 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 103
-Mejor Fitness de la Generacion = 0.03857226860895136 // Individuo: 3
-Mejores F1F2 = 0.6333818443213126, 0.02756971638966226 // Individuo: 2
+Mejor Fitness de la Generacion = 0.014271607801756448 // Individuo: 15
+Mejores F1F2 = 0.6456979693611243, 0.036206641670178466 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 104
-Mejor Fitness de la Generacion = 0.04026316442241839 // Individuo: 3
-Mejores F1F2 = 0.6304006712271364, 0.054838750328620414 // Individuo: 17
+Mejor Fitness de la Generacion = 0.013953067406768743 // Individuo: 15
+Mejores F1F2 = 0.6357763652031455, 0.04852902840764196 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 105
-Mejor Fitness de la Generacion = 0.04756593545975515 // Individuo: 3
-Mejores F1F2 = 0.6285194949878001, 0.06079075439501426 // Individuo: 7
+Mejor Fitness de la Generacion = 0.014043996030514152 // Individuo: 15
+Mejores F1F2 = 0.6314818771722224, 0.06900111479443288 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 106
-Mejor Fitness de la Generacion = 0.04636202515916927 // Individuo: 3
-Mejores F1F2 = 0.6304006712271364, 0.08486896040673177 // Individuo: 17
+Mejor Fitness de la Generacion = 0.013593027788815085 // Individuo: 15
+Mejores F1F2 = 0.6314818771722224, 0.11409793896433978 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 107
-Mejor Fitness de la Generacion = 0.04147236046328158 // Individuo: 3
-Mejores F1F2 = 0.6285194949878001, 0.0889696752659099 // Individuo: 7
+Mejor Fitness de la Generacion = 0.013354837591677634 // Individuo: 15
+Mejores F1F2 = 0.6348631984807945, 0.017373557001729482 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 108
-Mejor Fitness de la Generacion = 0.04031592179250971 // Individuo: 3
-Mejores F1F2 = 0.6279540193716697, 0.11209844868134732 // Individuo: 13
+Mejor Fitness de la Generacion = 0.013390707331954153 // Individuo: 15
+Mejores F1F2 = 0.6348631984807945, 0.013786582974077474 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 109
-Mejor Fitness de la Generacion = 0.04028607074868393 // Individuo: 3
-Mejores F1F2 = 0.6281188714958439, 0.11269546955786303 // Individuo: 18
+Mejor Fitness de la Generacion = 0.012511404595887468 // Individuo: 15
+Mejores F1F2 = 0.6314818771722224, 0.10171685658074607 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 110
-Mejor Fitness de la Generacion = 0.03314771556143285 // Individuo: 3
-Mejores F1F2 = 0.6281188714958439, 0.11269546955786303 // Individuo: 18
+Mejor Fitness de la Generacion = 0.012511404595887468 // Individuo: 15
+Mejores F1F2 = 0.6314818771722224, 0.10171685658074607 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 111
-Mejor Fitness de la Generacion = 0.032943150463701325 // Individuo: 3
-Mejores F1F2 = 0.6279540193716697, 0.11678677151249348 // Individuo: 13
+Mejor Fitness de la Generacion = 0.01302289179190191 // Individuo: 15
+Mejores F1F2 = 0.6278925045581271, 0.07389970978706306 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 112
-Mejor Fitness de la Generacion = 0.04623112747277089 // Individuo: 15
-Mejores F1F2 = 0.6281188714958439, 0.05147229315186125 // Individuo: 18
+Mejor Fitness de la Generacion = 0.01414005759863048 // Individuo: 15
+Mejores F1F2 = 0.6278925045581271, 0.07389970978706306 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 113
-Mejor Fitness de la Generacion = 0.04623112747277089 // Individuo: 15
-Mejores F1F2 = 0.6277378664769235, 0.037119353259176015 // Individuo: 17
+Mejor Fitness de la Generacion = 0.01504933808386417 // Individuo: 15
+Mejores F1F2 = 0.6288326112523155, 0.07547055894346913 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 114
-Mejor Fitness de la Generacion = 0.04623112747277089 // Individuo: 15
-Mejores F1F2 = 0.6277378664769235, 0.037119353259176015 // Individuo: 17
+Mejor Fitness de la Generacion = 0.01504933808386417 // Individuo: 15
+Mejores F1F2 = 0.6288326112523155, 0.07547055894346913 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 115
-Mejor Fitness de la Generacion = 0.04051884600349289 // Individuo: 3
-Mejores F1F2 = 0.6277378664769235, 0.037119353259176015 // Individuo: 17
+Mejor Fitness de la Generacion = 0.01575034834920306 // Individuo: 15
+Mejores F1F2 = 0.6425884915668976, 0.005369532409580488 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 116
-Mejor Fitness de la Generacion = 0.04324632537864367 // Individuo: 3
-Mejores F1F2 = 0.6281188714958439, -0.017430234243839507 // Individuo: 18
+Mejor Fitness de la Generacion = 0.01575034834920306 // Individuo: 15
+Mejores F1F2 = 0.6425884915668976, 0.005369532409580488 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 117
-Mejor Fitness de la Generacion = 0.04324632537864367 // Individuo: 3
-Mejores F1F2 = 0.6281188714958439, -0.017430234243839507 // Individuo: 18
+Mejor Fitness de la Generacion = 0.01595436975732287 // Individuo: 15
+Mejores F1F2 = 0.6425884915668976, -0.0150326084024009 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 118
-Mejor Fitness de la Generacion = 0.03931910667610733 // Individuo: 3
-Mejores F1F2 = 0.6281188714958439, -0.017430234243839507 // Individuo: 18
+Mejor Fitness de la Generacion = 0.013943080805257031 // Individuo: 15
+Mejores F1F2 = 0.6425884915668976, -0.07630254954159844 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 119
-Mejor Fitness de la Generacion = 0.03931910667610733 // Individuo: 3
-Mejores F1F2 = 0.6281188714958439, -0.017430234243839507 // Individuo: 18
+Mejor Fitness de la Generacion = 0.010600620357607242 // Individuo: 15
+Mejores F1F2 = 0.6275763341495905, -0.009359485087608548 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 120
-Mejor Fitness de la Generacion = 0.03931910667610733 // Individuo: 3
-Mejores F1F2 = 0.6281188714958439, -0.017430234243839507 // Individuo: 18
+Mejor Fitness de la Generacion = 0.010268330555044421 // Individuo: 15
+Mejores F1F2 = 0.6425884915668976, 0.023869495168673635 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 121
-Mejor Fitness de la Generacion = 0.04360381396898072 // Individuo: 3
-Mejores F1F2 = 0.6333818443213126, -0.07509017764105247 // Individuo: 2
+Mejor Fitness de la Generacion = 0.010665438067573087 // Individuo: 15
+Mejores F1F2 = 0.6425884915668976, 0.023869495168673635 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 122
-Mejor Fitness de la Generacion = 0.042873304458866085 // Individuo: 3
-Mejores F1F2 = 0.6333818443213126, -0.0530348399350976 // Individuo: 2
+Mejor Fitness de la Generacion = 0.010875872013710867 // Individuo: 15
+Mejores F1F2 = 0.6425884915668976, 0.023869495168673635 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 123
-Mejor Fitness de la Generacion = 0.042873304458866085 // Individuo: 3
-Mejores F1F2 = 0.6333818443213126, -0.0530348399350976 // Individuo: 2
+Mejor Fitness de la Generacion = 0.012083630951439977 // Individuo: 15
+Mejores F1F2 = 0.6288326112523155, 0.019834180577187825 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 124
-Mejor Fitness de la Generacion = 0.04288197921632771 // Individuo: 3
-Mejores F1F2 = 0.6333818443213126, -0.0530348399350976 // Individuo: 2
+Mejor Fitness de la Generacion = 0.012441072638619937 // Individuo: 15
+Mejores F1F2 = 0.6425884915668976, -0.015232054116749766 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 125
-Mejor Fitness de la Generacion = 0.041752674723984556 // Individuo: 3
-Mejores F1F2 = 0.6333818443213126, -0.030448750088234555 // Individuo: 2
+Mejor Fitness de la Generacion = 0.011756742688701539 // Individuo: 15
+Mejores F1F2 = 0.6288326112523155, 0.019834180577187825 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 126
-Mejor Fitness de la Generacion = 0.040421349065714096 // Individuo: 3
-Mejores F1F2 = 0.6277378664769235, -0.0038222369228251853 // Individuo: 17
+Mejor Fitness de la Generacion = 0.011452491862377337 // Individuo: 15
+Mejores F1F2 = 0.6288326112523155, 0.05025926320960801 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 127
-Mejor Fitness de la Generacion = 0.040421349065714096 // Individuo: 3
-Mejores F1F2 = 0.6277378664769235, -0.0038222369228251853 // Individuo: 17
+Mejor Fitness de la Generacion = 0.011880854981821617 // Individuo: 15
+Mejores F1F2 = 0.6365001669946326, 0.007422951265179995 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 128
-Mejor Fitness de la Generacion = 0.04036655609078523 // Individuo: 3
-Mejores F1F2 = 0.6281188714958439, -0.0027263774242479544 // Individuo: 18
+Mejor Fitness de la Generacion = 0.011423546767501694 // Individuo: 15
+Mejores F1F2 = 0.6304741994468465, 0.05315377269717221 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 129
-Mejor Fitness de la Generacion = 0.04090181632969625 // Individuo: 3
-Mejores F1F2 = 0.6281188714958439, -0.013431582202468404 // Individuo: 18
+Mejor Fitness de la Generacion = 0.01139043458428679 // Individuo: 15
+Mejores F1F2 = 0.6365001669946326, 0.056464991018662446 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 130
-Mejor Fitness de la Generacion = 0.041909638986109846 // Individuo: 3
-Mejores F1F2 = 0.6261970519001864, -0.03358803533074034 // Individuo: 17
+Mejor Fitness de la Generacion = 0.011968991447303613 // Individuo: 15
+Mejores F1F2 = 0.6365001669946326, -0.03019076175006436 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 131
-Mejor Fitness de la Generacion = 0.04090181632969625 // Individuo: 3
-Mejores F1F2 = 0.6281188714958439, -0.013431582202468404 // Individuo: 18
+Mejor Fitness de la Generacion = 0.011968991447303613 // Individuo: 15
+Mejores F1F2 = 0.6365001669946326, -0.03019076175006436 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 132
-Mejor Fitness de la Generacion = 0.040495620708224885 // Individuo: 3
-Mejores F1F2 = 0.6281188714958439, -0.013431582202468404 // Individuo: 18
+Mejor Fitness de la Generacion = 0.011968991447303613 // Individuo: 15
+Mejores F1F2 = 0.6365001669946326, -0.03019076175006436 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 133
-Mejor Fitness de la Generacion = 0.03350952083972691 // Individuo: 3
-Mejores F1F2 = 0.6281188714958439, 0.07821109608269439 // Individuo: 18
+Mejor Fitness de la Generacion = 0.010344093517906102 // Individuo: 15
+Mejores F1F2 = 0.6222104400064135, 0.03252272398184485 // Individuo: 1
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 134
-Mejor Fitness de la Generacion = 0.03493493461135091 // Individuo: 3
-Mejores F1F2 = 0.6247900197319061, 0.0645610102042785 // Individuo: 13
+Mejor Fitness de la Generacion = 0.010522994528696485 // Individuo: 15
+Mejores F1F2 = 0.6304741994468465, 0.014632622902806437 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 135
-Mejor Fitness de la Generacion = 0.040065317050547965 // Individuo: 3
-Mejores F1F2 = 0.6247900197319061, 0.007062803355433745 // Individuo: 13
+Mejor Fitness de la Generacion = 0.010442812040150514 // Individuo: 15
+Mejores F1F2 = 0.6240996768224181, 0.02265087175740367 // Individuo: 8
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 136
-Mejor Fitness de la Generacion = 0.040065317050547965 // Individuo: 3
-Mejores F1F2 = 0.6247900197319061, 0.007062803355433745 // Individuo: 13
+Mejor Fitness de la Generacion = 0.010095219313034441 // Individuo: 15
+Mejores F1F2 = 0.6304741994468465, 0.030688868955676643 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 137
-Mejor Fitness de la Generacion = 0.040065317050547965 // Individuo: 3
-Mejores F1F2 = 0.6247900197319061, 0.007062803355433745 // Individuo: 13
+Mejor Fitness de la Generacion = 0.010403387308647614 // Individuo: 15
+Mejores F1F2 = 0.6304741994468465, 0.030688868955676643 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 138
-Mejor Fitness de la Generacion = 0.040065317050547965 // Individuo: 3
-Mejores F1F2 = 0.6247900197319061, 0.007062803355433745 // Individuo: 13
+Mejor Fitness de la Generacion = 0.011530832215684498 // Individuo: 15
+Mejores F1F2 = 0.6304741994468465, 0.030688868955676643 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 139
-Mejor Fitness de la Generacion = 0.036925113529353036 // Individuo: 3
-Mejores F1F2 = 0.6281207224131212, 0.0412578514586286 // Individuo: 19
+Mejor Fitness de la Generacion = 0.011138362100869504 // Individuo: 15
+Mejores F1F2 = 0.6304741994468465, 0.030688868955676643 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 140
-Mejor Fitness de la Generacion = 0.036241710460833985 // Individuo: 3
-Mejores F1F2 = 0.6281207224131212, 0.054925912829009584 // Individuo: 19
+Mejor Fitness de la Generacion = 0.010089011283175318 // Individuo: 15
+Mejores F1F2 = 0.6304741994468465, 0.034577124217457664 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 141
-Mejor Fitness de la Generacion = 0.036241710460833985 // Individuo: 3
-Mejores F1F2 = 0.6281207224131212, 0.054925912829009584 // Individuo: 19
+Mejor Fitness de la Generacion = 0.01091497103158058 // Individuo: 15
+Mejores F1F2 = 0.6304741994468465, 0.034577124217457664 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 142
-Mejor Fitness de la Generacion = 0.035445437185134966 // Individuo: 3
-Mejores F1F2 = 0.6234419541822203, 0.07085137834299003 // Individuo: 7
+Mejor Fitness de la Generacion = 0.011023021086187945 // Individuo: 15
+Mejores F1F2 = 0.6278925045581271, 0.023772118756720976 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 143
-Mejor Fitness de la Generacion = 0.03569813750720634 // Individuo: 3
-Mejores F1F2 = 0.6234419541822203, 0.07085137834299003 // Individuo: 7
+Mejor Fitness de la Generacion = 0.011980476565509032 // Individuo: 15
+Mejores F1F2 = 0.6249901599540482, 0.006461512024054159 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 144
-Mejor Fitness de la Generacion = 0.03406405098062204 // Individuo: 3
-Mejores F1F2 = 0.621528046184144, 0.10353310887467593 // Individuo: 17
+Mejor Fitness de la Generacion = 0.01190526748692605 // Individuo: 15
+Mejores F1F2 = 0.6304741994468465, 0.08180287311214351 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 145
-Mejor Fitness de la Generacion = 0.036361635550971 // Individuo: 3
-Mejores F1F2 = 0.6234419541822203, 0.05758141746769675 // Individuo: 7
+Mejor Fitness de la Generacion = 0.011988343362485141 // Individuo: 15
+Mejores F1F2 = 0.6212342105824014, 0.07349528555623454 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 146
-Mejor Fitness de la Generacion = 0.03283723639939284 // Individuo: 3
-Mejores F1F2 = 0.616509430932096, 0.1315604581293875 // Individuo: 2
+Mejor Fitness de la Generacion = 0.012296681224086945 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, 0.04266149939605404 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 147
-Mejor Fitness de la Generacion = 0.030987339574814806 // Individuo: 3
-Mejores F1F2 = 0.6208471468106183, 0.12887528823637465 // Individuo: 18
+Mejor Fitness de la Generacion = 0.012835009772957966 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, 0.04266149939605404 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 148
-Mejor Fitness de la Generacion = 0.030987339574814806 // Individuo: 3
-Mejores F1F2 = 0.6208471468106183, 0.12887528823637465 // Individuo: 18
+Mejor Fitness de la Generacion = 0.010887314054517927 // Individuo: 15
+Mejores F1F2 = 0.6212342105824014, 0.09774909683328158 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 149
-Mejor Fitness de la Generacion = 0.034120633116418046 // Individuo: 3
-Mejores F1F2 = 0.6173593017152854, 0.1254457098600439 // Individuo: 13
+Mejor Fitness de la Generacion = 0.010003490208779614 // Individuo: 15
+Mejores F1F2 = 0.6242739543607392, 0.0964486987855696 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 150
-Mejor Fitness de la Generacion = 0.03926701558879627 // Individuo: 3
-Mejores F1F2 = 0.6228475278681957, 0.02251806041247952 // Individuo: 7
+Mejor Fitness de la Generacion = 0.010258109107445358 // Individuo: 15
+Mejores F1F2 = 0.6242739543607392, 0.06907621130034564 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 151
-Mejor Fitness de la Generacion = 0.040559088360729405 // Individuo: 3
-Mejores F1F2 = 0.6208471468106183, -0.0005275979896047128 // Individuo: 18
+Mejor Fitness de la Generacion = 0.01057092328036704 // Individuo: 15
+Mejores F1F2 = 0.6249901599540482, 0.0377947940081772 // Individuo: 2
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 152
-Mejor Fitness de la Generacion = 0.03633215827203491 // Individuo: 3
-Mejores F1F2 = 0.6208471468106183, 0.08401100378428517 // Individuo: 18
+Mejor Fitness de la Generacion = 0.010843713186056196 // Individuo: 15
+Mejores F1F2 = 0.6249901599540482, 0.010515803439261524 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 153
-Mejor Fitness de la Generacion = 0.03596017855885692 // Individuo: 3
-Mejores F1F2 = 0.6208471468106183, 0.08401100378428517 // Individuo: 18
+Mejor Fitness de la Generacion = 0.010843713186056196 // Individuo: 15
+Mejores F1F2 = 0.6249901599540482, 0.010515803439261524 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 154
-Mejor Fitness de la Generacion = 0.03596017855885692 // Individuo: 3
-Mejores F1F2 = 0.6208471468106183, 0.08401100378428517 // Individuo: 18
+Mejor Fitness de la Generacion = 0.010607612748670286 // Individuo: 15
+Mejores F1F2 = 0.6271782596005164, 0.03412584717785281 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 155
-Mejor Fitness de la Generacion = 0.03596017855885692 // Individuo: 3
-Mejores F1F2 = 0.6208471468106183, 0.08401100378428517 // Individuo: 18
+Mejor Fitness de la Generacion = 0.010833408128557445 // Individuo: 15
+Mejores F1F2 = 0.6220523548021452, 0.011546309189136777 // Individuo: 16
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 156
-Mejor Fitness de la Generacion = 0.03596017855885692 // Individuo: 3
-Mejores F1F2 = 0.6208471468106183, 0.08401100378428517 // Individuo: 18
+Mejor Fitness de la Generacion = 0.009887058579296629 // Individuo: 15
+Mejores F1F2 = 0.6271782596005164, -0.02150247951674875 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 157
-Mejor Fitness de la Generacion = 0.03853768116690534 // Individuo: 3
-Mejores F1F2 = 0.6281207224131212, 0.013048233317296156 // Individuo: 19
+Mejor Fitness de la Generacion = 0.00969075043869362 // Individuo: 15
+Mejores F1F2 = 0.6271782596005164, -0.0018716654564478604 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 158
-Mejor Fitness de la Generacion = 0.03491705522210054 // Individuo: 3
-Mejores F1F2 = 0.6198072156754744, 0.08803205728829135 // Individuo: 7
+Mejor Fitness de la Generacion = 0.010446569009884834 // Individuo: 15
+Mejores F1F2 = 0.6249901599540482, 0.034984015719004606 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 159
-Mejor Fitness de la Generacion = 0.03491705522210054 // Individuo: 3
-Mejores F1F2 = 0.6198072156754744, 0.08803205728829135 // Individuo: 7
+Mejor Fitness de la Generacion = 0.009927049086805919 // Individuo: 15
+Mejores F1F2 = 0.6249901599540482, 0.08693600802689623 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 160
-Mejor Fitness de la Generacion = 0.03660837893565786 // Individuo: 3
-Mejores F1F2 = 0.6281207224131212, 0.051634277942245885 // Individuo: 19
+Mejor Fitness de la Generacion = 0.010250674957125427 // Individuo: 15
+Mejores F1F2 = 0.6249901599540482, 0.08542893991602245 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 161
-Mejor Fitness de la Generacion = 0.03660837893565786 // Individuo: 3
-Mejores F1F2 = 0.6281207224131212, 0.051634277942245885 // Individuo: 19
+Mejor Fitness de la Generacion = 0.009157504804332873 // Individuo: 15
+Mejores F1F2 = 0.6249901599540482, 0.09088194529562282 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 162
-Mejor Fitness de la Generacion = 0.009016636147586587 // Individuo: 15
-Mejores F1F2 = 0.6281207224131212, 0.051634277942245885 // Individuo: 19
+Mejor Fitness de la Generacion = 0.00965391182876209 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, 0.0512602842077143 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 163
-Mejor Fitness de la Generacion = 0.009387561050047158 // Individuo: 15
-Mejores F1F2 = 0.6281207224131212, 0.014541787696188675 // Individuo: 19
+Mejor Fitness de la Generacion = 0.00965391182876209 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, 0.0512602842077143 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 164
-Mejor Fitness de la Generacion = 0.009387561050047158 // Individuo: 15
-Mejores F1F2 = 0.6281207224131212, 0.014541787696188675 // Individuo: 19
+Mejor Fitness de la Generacion = 0.009033663229784201 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, 0.0512602842077143 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 165
-Mejor Fitness de la Generacion = 0.009387561050047158 // Individuo: 15
-Mejores F1F2 = 0.6281207224131212, 0.014541787696188675 // Individuo: 19
+Mejor Fitness de la Generacion = 0.009296837695661272 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, 0.024942837620007256 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 166
-Mejor Fitness de la Generacion = 0.008954277060884726 // Individuo: 15
-Mejores F1F2 = 0.6208471468106183, 0.05647718494578102 // Individuo: 18
+Mejor Fitness de la Generacion = 0.010012114456350078 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, 0.024942837620007256 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 167
-Mejor Fitness de la Generacion = 0.008954277060884726 // Individuo: 15
-Mejores F1F2 = 0.6208471468106183, 0.05647718494578102 // Individuo: 18
+Mejor Fitness de la Generacion = 0.01004149962577549 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, 0.007241145632802578 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 168
-Mejor Fitness de la Generacion = 0.008881448534502564 // Individuo: 15
-Mejores F1F2 = 0.6208471468106183, 0.06376003758399733 // Individuo: 18
+Mejor Fitness de la Generacion = 0.01004149962577549 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, 0.007241145632802578 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 169
-Mejor Fitness de la Generacion = 0.008641487086289775 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.08775618240527616 // Individuo: 19
+Mejor Fitness de la Generacion = 0.01004149962577549 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, 0.007241145632802578 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 170
-Mejor Fitness de la Generacion = 0.008641487086289775 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.08775618240527616 // Individuo: 19
+Mejor Fitness de la Generacion = 0.009133887435728523 // Individuo: 15
+Mejores F1F2 = 0.6239757984635688, 0.09800236463749928 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 171
-Mejor Fitness de la Generacion = 0.008467693601230572 // Individuo: 15
-Mejores F1F2 = 0.6198072156754744, 0.1051355309111965 // Individuo: 7
+Mejor Fitness de la Generacion = 0.008618205163706679 // Individuo: 15
+Mejores F1F2 = 0.6239757984635688, 0.09500896758254103 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 172
-Mejor Fitness de la Generacion = 0.008936985201225642 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.05820637091168941 // Individuo: 19
+Mejor Fitness de la Generacion = 0.008618205163706679 // Individuo: 15
+Mejores F1F2 = 0.6239757984635688, 0.09500896758254103 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 173
-Mejor Fitness de la Generacion = 0.008936985201225642 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.05820637091168941 // Individuo: 19
+Mejor Fitness de la Generacion = 0.008299141661102051 // Individuo: 15
+Mejores F1F2 = 0.6239757984635688, 0.09500896758254103 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 174
-Mejor Fitness de la Generacion = 0.008750993850713804 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.0768055059628734 // Individuo: 19
+Mejor Fitness de la Generacion = 0.008299141661102051 // Individuo: 15
+Mejores F1F2 = 0.6239757984635688, 0.09500896758254103 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 175
-Mejor Fitness de la Generacion = 0.00903010080044481 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.048894810989772684 // Individuo: 19
+Mejor Fitness de la Generacion = 0.008790001509913064 // Individuo: 15
+Mejores F1F2 = 0.6239757984635688, 0.040612262453310566 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 176
-Mejor Fitness de la Generacion = 0.008865907415678486 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.06531414946640508 // Individuo: 19
+Mejor Fitness de la Generacion = 0.008576162730189345 // Individuo: 15
+Mejores F1F2 = 0.6239757984635688, 0.040612262453310566 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 177
-Mejor Fitness de la Generacion = 0.009342784713197052 // Individuo: 15
-Mejores F1F2 = 0.6198072156754744, 0.017626419714548484 // Individuo: 7
+Mejor Fitness de la Generacion = 0.009166051681472765 // Individuo: 15
+Mejores F1F2 = 0.6239757984635688, 0.040612262453310566 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 178
-Mejor Fitness de la Generacion = 0.009342784713197052 // Individuo: 15
-Mejores F1F2 = 0.6198072156754744, 0.017626419714548484 // Individuo: 7
+Mejor Fitness de la Generacion = 0.010300342550937933 // Individuo: 15
+Mejores F1F2 = 0.6239757984635688, 0.040612262453310566 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 179
-Mejor Fitness de la Generacion = 0.009529285603061256 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, -0.0010236692718719545 // Individuo: 19
+Mejor Fitness de la Generacion = 0.00878060755145096 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, 0.037142766815644095 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 180
-Mejor Fitness de la Generacion = 0.00941222029643702 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, -0.0010236692718719545 // Individuo: 19
+Mejor Fitness de la Generacion = 0.00926250373785417 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, -0.011046851824676912 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 181
-Mejor Fitness de la Generacion = 0.00941222029643702 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, -0.0010236692718719545 // Individuo: 19
+Mejor Fitness de la Generacion = 0.009232300284476892 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, -0.011046851824676912 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 182
-Mejor Fitness de la Generacion = 0.00941222029643702 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, -0.0010236692718719545 // Individuo: 19
+Mejor Fitness de la Generacion = 0.009464295656660555 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, -0.011046851824676912 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 183
-Mejor Fitness de la Generacion = 0.00924829613064546 // Individuo: 15
-Mejores F1F2 = 0.6208471468106183, 0.014212863392769094 // Individuo: 18
+Mejor Fitness de la Generacion = 0.008961174056562927 // Individuo: 15
+Mejores F1F2 = 0.6282469487874374, -0.011046851824676912 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 184
-Mejor Fitness de la Generacion = 0.009362638009921567 // Individuo: 15
-Mejores F1F2 = 0.6208471468106183, 0.0027786754651583853 // Individuo: 18
+Mejor Fitness de la Generacion = 0.008299141661102051 // Individuo: 15
+Mejores F1F2 = 0.6200916491546729, 0.1240628189217189 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 185
-Mejor Fitness de la Generacion = 0.009033910980506777 // Individuo: 15
-Mejores F1F2 = 0.6208471468106183, 0.03565137840663738 // Individuo: 18
+Mejor Fitness de la Generacion = 0.009814100924039764 // Individuo: 15
+Mejores F1F2 = 0.6150745487111133, 0.10673141697418459 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 186
-Mejor Fitness de la Generacion = 0.009033910980506777 // Individuo: 15
-Mejores F1F2 = 0.6208471468106183, 0.03565137840663738 // Individuo: 18
+Mejor Fitness de la Generacion = 0.009186369847973835 // Individuo: 15
+Mejores F1F2 = 0.6160252609414614, 0.11227568860839346 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 187
-Mejor Fitness de la Generacion = 0.009033910980506777 // Individuo: 15
-Mejores F1F2 = 0.6208471468106183, 0.03565137840663738 // Individuo: 18
+Mejor Fitness de la Generacion = 0.009186369847973835 // Individuo: 15
+Mejores F1F2 = 0.6160252609414614, 0.11227568860839346 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 188
-Mejor Fitness de la Generacion = 0.008582735784412904 // Individuo: 15
-Mejores F1F2 = 0.6189263854160322, 0.08076889801602459 // Individuo: 18
+Mejor Fitness de la Generacion = 0.009918446598627083 // Individuo: 15
+Mejores F1F2 = 0.6160252609414614, 0.06650209190172005 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 189
-Mejor Fitness de la Generacion = 0.009363826626856218 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.002659813771693097 // Individuo: 19
+Mejor Fitness de la Generacion = 0.009756514843159871 // Individuo: 15
+Mejores F1F2 = 0.6160252609414614, 0.06650209190172005 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 190
-Mejor Fitness de la Generacion = 0.009363826626856218 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.002659813771693097 // Individuo: 19
+Mejor Fitness de la Generacion = 0.030090070170421035 // Individuo: 4
+Mejores F1F2 = 0.6160252609414614, 0.06650209190172005 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 191
-Mejor Fitness de la Generacion = 0.009363826626856218 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.002659813771693097 // Individuo: 19
+Mejor Fitness de la Generacion = 0.030090070170421035 // Individuo: 4
+Mejores F1F2 = 0.6160252609414614, 0.06650209190172005 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 192
-Mejor Fitness de la Generacion = 0.009363826626856218 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.002659813771693097 // Individuo: 19
+Mejor Fitness de la Generacion = 0.028831718705091748 // Individuo: 4
+Mejores F1F2 = 0.6150745487111133, 0.09796087853495214 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 193
-Mejor Fitness de la Generacion = 0.009057413028428942 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.0173127108403994 // Individuo: 19
+Mejor Fitness de la Generacion = 0.028831718705091748 // Individuo: 4
+Mejores F1F2 = 0.6150745487111133, 0.09796087853495214 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 194
-Mejor Fitness de la Generacion = 0.009057413028428942 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.0173127108403994 // Individuo: 19
+Mejor Fitness de la Generacion = 0.02891677842244897 // Individuo: 4
+Mejores F1F2 = 0.6161731982688621, 0.0958343856010216 // Individuo: 2
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 195
-Mejor Fitness de la Generacion = 0.009057413028428942 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.0173127108403994 // Individuo: 19
+Mejor Fitness de la Generacion = 0.028810955478544457 // Individuo: 4
+Mejores F1F2 = 0.6160252609414614, 0.09847995919863445 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 196
-Mejor Fitness de la Generacion = 0.008678591573676855 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.0173127108403994 // Individuo: 19
+Mejor Fitness de la Generacion = 0.028810955478544457 // Individuo: 4
+Mejores F1F2 = 0.6160252609414614, 0.09847995919863445 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 197
-Mejor Fitness de la Generacion = 0.008678591573676855 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.0173127108403994 // Individuo: 19
+Mejor Fitness de la Generacion = 0.028810955478544457 // Individuo: 4
+Mejores F1F2 = 0.6160252609414614, 0.09847995919863445 // Individuo: 12
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 198
-Mejor Fitness de la Generacion = 0.008832592188916636 // Individuo: 15
-Mejores F1F2 = 0.6167962264638369, 0.0019126493164213412 // Individuo: 17
+Mejor Fitness de la Generacion = 0.030851646145306715 // Individuo: 4
+Mejores F1F2 = 0.6170612141785279, 0.04746269252957801 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 199
-Mejor Fitness de la Generacion = 0.008850422569602548 // Individuo: 15
-Mejores F1F2 = 0.6167962264638369, 0.0001296112478301591 // Individuo: 17
+Mejor Fitness de la Generacion = 0.03267175971830007 // Individuo: 4
+Mejores F1F2 = 0.6170612141785279, 0.0019598532047441957 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 200
-Mejor Fitness de la Generacion = 0.008717908378782615 // Individuo: 15
-Mejores F1F2 = 0.6234537264487666, 0.013381030329823506 // Individuo: 19
+Mejor Fitness de la Generacion = 0.03162535102564851 // Individuo: 4
+Mejores F1F2 = 0.6170612141785279, 0.0281200705210333 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 201
-Mejor Fitness de la Generacion = 0.008356232926567526 // Individuo: 15
-Mejores F1F2 = 0.6205432673441564, 0.04954857555133227 // Individuo: 19
+Mejor Fitness de la Generacion = 0.03162535102564851 // Individuo: 4
+Mejores F1F2 = 0.6170612141785279, 0.0281200705210333 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 202
-Mejor Fitness de la Generacion = 0.008142191741590593 // Individuo: 15
-Mejores F1F2 = 0.6189263854160322, 0.07095269404902559 // Individuo: 18
+Mejor Fitness de la Generacion = 0.03162535102564851 // Individuo: 4
+Mejores F1F2 = 0.6170612141785279, 0.0281200705210333 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 203
-Mejor Fitness de la Generacion = 0.008142191741590593 // Individuo: 15
-Mejores F1F2 = 0.6189263854160322, 0.07095269404902559 // Individuo: 18
+Mejor Fitness de la Generacion = 0.028832720261872096 // Individuo: 4
+Mejores F1F2 = 0.6170612141785279, 0.09793583961544353 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 204
-Mejor Fitness de la Generacion = 0.007931788952344719 // Individuo: 15
-Mejores F1F2 = 0.6189263854160322, 0.09199297297361299 // Individuo: 18
+Mejor Fitness de la Generacion = 0.026831828193647118 // Individuo: 4
+Mejores F1F2 = 0.6170612141785279, 0.09793583961544353 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 205
-Mejor Fitness de la Generacion = 0.007931788952344719 // Individuo: 15
-Mejores F1F2 = 0.6136917268347888, 0.09348340740423867 // Individuo: 17
+Mejor Fitness de la Generacion = 0.026831828193647118 // Individuo: 4
+Mejores F1F2 = 0.6170612141785279, 0.09793583961544353 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 206
-Mejor Fitness de la Generacion = 0.007870132324559808 // Individuo: 15
-Mejores F1F2 = 0.6118701662381043, 0.098158635752104 // Individuo: 12
+Mejor Fitness de la Generacion = 0.026831828193647118 // Individuo: 4
+Mejores F1F2 = 0.6170612141785279, 0.09793583961544353 // Individuo: 17
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 207
-Mejor Fitness de la Generacion = 0.007936643712526854 // Individuo: 15
-Mejores F1F2 = 0.6136917268347888, 0.09150749695539948 // Individuo: 17
+Mejor Fitness de la Generacion = 0.0253035732431141 // Individuo: 4
+Mejores F1F2 = 0.6150745487111133, 0.1361422133787689 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 208
-Mejor Fitness de la Generacion = 0.007936643712526854 // Individuo: 15
-Mejores F1F2 = 0.6136917268347888, 0.09150749695539948 // Individuo: 17
+Mejor Fitness de la Generacion = 0.0253035732431141 // Individuo: 4
+Mejores F1F2 = 0.6150745487111133, 0.1361422133787689 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 209
-Mejor Fitness de la Generacion = 0.007911614000067324 // Individuo: 15
-Mejores F1F2 = 0.6136917268347888, 0.09401046820135248 // Individuo: 17
+Mejor Fitness de la Generacion = 0.0253035732431141 // Individuo: 4
+Mejores F1F2 = 0.6150745487111133, 0.1361422133787689 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 210
-Mejor Fitness de la Generacion = 0.008096586103979241 // Individuo: 15
-Mejores F1F2 = 0.6189263854160322, 0.07551325781016083 // Individuo: 18
+Mejor Fitness de la Generacion = 0.025412803061023403 // Individuo: 4
+Mejores F1F2 = 0.6150745487111133, 0.13341146793103625 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 211
-Mejor Fitness de la Generacion = 0.00824132949334664 // Individuo: 15
-Mejores F1F2 = 0.6189263854160322, 0.061038918873420986 // Individuo: 18
+Mejor Fitness de la Generacion = 0.024877510452676832 // Individuo: 4
+Mejores F1F2 = 0.6106601469666741, 0.14679378313970065 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 212
-Mejor Fitness de la Generacion = 0.008394590604336767 // Individuo: 15
-Mejores F1F2 = 0.6189263854160322, 0.045712807774408205 // Individuo: 18
+Mejor Fitness de la Generacion = 0.025459890121039927 // Individuo: 4
+Mejores F1F2 = 0.6141575515575264, 0.1322342914306233 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 213
-Mejor Fitness de la Generacion = 0.008394590604336767 // Individuo: 15
-Mejores F1F2 = 0.6189263854160322, 0.045712807774408205 // Individuo: 18
+Mejor Fitness de la Generacion = 0.024877510452676832 // Individuo: 4
+Mejores F1F2 = 0.6106601469666741, 0.14679378313970065 // Individuo: 7
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 214
-Mejor Fitness de la Generacion = 0.008394590604336767 // Individuo: 15
-Mejores F1F2 = 0.6189263854160322, 0.045712807774408205 // Individuo: 18
+Mejor Fitness de la Generacion = 0.025621127518953363 // Individuo: 4
+Mejores F1F2 = 0.6150745487111133, 0.1282033564827873 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 215
-Mejor Fitness de la Generacion = 0.008379236896966267 // Individuo: 15
-Mejores F1F2 = 0.6185127937330466, 0.04724817851145829 // Individuo: 18
+Mejor Fitness de la Generacion = 0.025621127518953363 // Individuo: 4
+Mejores F1F2 = 0.6150745487111133, 0.1282033564827873 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 216
-Mejor Fitness de la Generacion = 0.007846490625137198 // Individuo: 15
-Mejores F1F2 = 0.6153904825103563, 0.10203972582140731 // Individuo: 19
+Mejor Fitness de la Generacion = 0.025517724158139927 // Individuo: 4
+Mejores F1F2 = 0.6141575515575264, 0.1307884405031232 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 217
-Mejor Fitness de la Generacion = 0.008434025690963298 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.04328621923879723 // Individuo: 18
+Mejor Fitness de la Generacion = 0.025517724158139927 // Individuo: 4
+Mejores F1F2 = 0.6135647079314842, 0.13096843097776995 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 218
-Mejor Fitness de la Generacion = 0.008434025690963298 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.04328621923879723 // Individuo: 18
+Mejor Fitness de la Generacion = 0.02633320932779002 // Individuo: 4
+Mejores F1F2 = 0.6141575515575264, 0.11040131126187096 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 219
-Mejor Fitness de la Generacion = 0.008434025690963298 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.04328621923879723 // Individuo: 18
+Mejor Fitness de la Generacion = 0.02633320932779002 // Individuo: 4
+Mejores F1F2 = 0.6141575515575264, 0.11040131126187096 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 220
-Mejor Fitness de la Generacion = 0.008434025690963298 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.04328621923879723 // Individuo: 18
+Mejor Fitness de la Generacion = 0.02566508999652939 // Individuo: 4
+Mejores F1F2 = 0.6141575515575264, 0.11040131126187096 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 221
-Mejor Fitness de la Generacion = 0.008487309366608164 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.03795785167431067 // Individuo: 18
+Mejor Fitness de la Generacion = 0.02566508999652939 // Individuo: 4
+Mejores F1F2 = 0.6141575515575264, 0.11040131126187096 // Individuo: 18
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 222
-Mejor Fitness de la Generacion = 0.008593680589983815 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.027320729336745626 // Individuo: 18
+Mejor Fitness de la Generacion = 0.026526173214384833 // Individuo: 4
+Mejores F1F2 = 0.6135647079314842, 0.08887423081548486 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 223
-Mejor Fitness de la Generacion = 0.008593680589983815 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.027320729336745626 // Individuo: 18
+Mejor Fitness de la Generacion = 0.026526173214384833 // Individuo: 4
+Mejores F1F2 = 0.6135647079314842, 0.08887423081548486 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 224
-Mejor Fitness de la Generacion = 0.008291426064656963 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.057546181869430814 // Individuo: 18
+Mejor Fitness de la Generacion = 0.02688471533972477 // Individuo: 4
+Mejores F1F2 = 0.6135647079314842, 0.07765963570616867 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 225
-Mejor Fitness de la Generacion = 0.008291426064656963 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.057546181869430814 // Individuo: 18
+Mejor Fitness de la Generacion = 0.017815555169034977 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.07765963570616867 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 226
-Mejor Fitness de la Generacion = 0.008518769735040147 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.034811814831112314 // Individuo: 18
+Mejor Fitness de la Generacion = 0.017815555169034977 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.07765963570616867 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 227
-Mejor Fitness de la Generacion = 0.008518769735040147 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.034811814831112314 // Individuo: 18
+Mejor Fitness de la Generacion = 0.017815555169034977 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.07765963570616867 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 228
-Mejor Fitness de la Generacion = 0.008774410893452883 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.009247698989838946 // Individuo: 18
+Mejor Fitness de la Generacion = 0.008630114750472982 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.08993162832976548 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 229
-Mejor Fitness de la Generacion = 0.008667906205403862 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.019898167794740986 // Individuo: 18
+Mejor Fitness de la Generacion = 0.008817744382319618 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.08482821605175381 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 230
-Mejor Fitness de la Generacion = 0.008848855783491824 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 6.640823727794e-05 // Individuo: 18
+Mejor Fitness de la Generacion = 0.008933516055031471 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.08482821605175381 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 231
-Mejor Fitness de la Generacion = 0.008810925911503868 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.0038593954360735608 // Individuo: 18
+Mejor Fitness de la Generacion = 0.00833352178824087 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.12041068628063066 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 232
-Mejor Fitness de la Generacion = 0.008810925911503868 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.0038593954360735608 // Individuo: 18
+Mejor Fitness de la Generacion = 0.008556517343209575 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.09811113078376028 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 233
-Mejor Fitness de la Generacion = 0.008875399242738993 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, -0.002587937687438936 // Individuo: 18
+Mejor Fitness de la Generacion = 0.00812928200944326 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.09811113078376028 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 234
-Mejor Fitness de la Generacion = 0.008875399242738993 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, -0.002587937687438936 // Individuo: 18
+Mejor Fitness de la Generacion = 0.0083235484165274 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.07868449007534631 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 235
-Mejor Fitness de la Generacion = 0.008710749493552682 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.013877037231192274 // Individuo: 18
+Mejor Fitness de la Generacion = 0.009030761689816353 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.07868449007534631 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 236
-Mejor Fitness de la Generacion = 0.008224218477488823 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.045518371256740006 // Individuo: 18
+Mejor Fitness de la Generacion = 0.008772866037420717 // Individuo: 15
+Mejores F1F2 = 0.6128635831820239, 0.1100148384528697 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 237
-Mejor Fitness de la Generacion = 0.008355568072073575 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.04775076664893607 // Individuo: 18
+Mejor Fitness de la Generacion = 0.008772866037420717 // Individuo: 15
+Mejores F1F2 = 0.6128635831820239, 0.1100148384528697 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 238
-Mejor Fitness de la Generacion = 0.008792617968823394 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.004045776973954398 // Individuo: 18
+Mejor Fitness de la Generacion = 0.008307525435809301 // Individuo: 15
+Mejores F1F2 = 0.6128635831820239, 0.1100148384528697 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 239
-Mejor Fitness de la Generacion = 0.008553483862955446 // Individuo: 15
-Mejores F1F2 = 0.616266929287865, 0.027959187560749128 // Individuo: 18
+Mejor Fitness de la Generacion = 0.008537316820694547 // Individuo: 15
+Mejores F1F2 = 0.6128635831820239, 0.09651144153821556 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 240
-Mejor Fitness de la Generacion = 0.007354998043075185 // Individuo: 15
-Mejores F1F2 = 0.6125164802859104, 0.12703704491115714 // Individuo: 19
+Mejor Fitness de la Generacion = 0.008537316820694547 // Individuo: 15
+Mejores F1F2 = 0.6128635831820239, 0.09651144153821556 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 241
-Mejor Fitness de la Generacion = 0.007402851330566307 // Individuo: 15
-Mejores F1F2 = 0.6125164802859104, 0.12225171616204497 // Individuo: 19
+Mejor Fitness de la Generacion = 0.008537316820694547 // Individuo: 15
+Mejores F1F2 = 0.6128635831820239, 0.09651144153821556 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 242
-Mejor Fitness de la Generacion = 0.007402851330566307 // Individuo: 15
-Mejores F1F2 = 0.6125164802859104, 0.12225171616204497 // Individuo: 19
+Mejor Fitness de la Generacion = 0.008385908389848188 // Individuo: 15
+Mejores F1F2 = 0.6128635831820239, 0.11165228462285147 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 243
-Mejor Fitness de la Generacion = 0.007402851330566307 // Individuo: 15
-Mejores F1F2 = 0.6125164802859104, 0.12225171616204497 // Individuo: 19
+Mejor Fitness de la Generacion = 0.008447893880966931 // Individuo: 15
+Mejores F1F2 = 0.6128635831820239, 0.11165228462285147 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 244
-Mejor Fitness de la Generacion = 0.007426544643368635 // Individuo: 15
-Mejores F1F2 = 0.6110998712948401, 0.1198823848818122 // Individuo: 7
+Mejor Fitness de la Generacion = 0.008447893880966931 // Individuo: 15
+Mejores F1F2 = 0.6128635831820239, 0.11165228462285147 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 245
-Mejor Fitness de la Generacion = 0.007693202900396232 // Individuo: 15
-Mejores F1F2 = 0.6110998712948401, 0.10389592942219733 // Individuo: 7
+Mejor Fitness de la Generacion = 0.00907627275315078 // Individuo: 15
+Mejores F1F2 = 0.6128635831820239, 0.07839087736921 // Individuo: 19
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 246
-Mejor Fitness de la Generacion = 0.007693202900396232 // Individuo: 15
-Mejores F1F2 = 0.6110998712948401, 0.10389592942219733 // Individuo: 7
+Mejor Fitness de la Generacion = 0.008764298135109217 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.10958833917336626 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 247
-Mejor Fitness de la Generacion = 0.00792018762878255 // Individuo: 15
-Mejores F1F2 = 0.6125164802859104, 0.08119745658356563 // Individuo: 19
+Mejor Fitness de la Generacion = 0.008764298135109217 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.10958833917336626 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 248
-Mejor Fitness de la Generacion = 0.008052493288192035 // Individuo: 15
-Mejores F1F2 = 0.6125164802859104, 0.08119745658356563 // Individuo: 19
+Mejor Fitness de la Generacion = 0.008369717718320418 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.10958833917336626 // Individuo: 13
 ----------------------------------------------------------------------------------------------
 -Generacion Nº 249
-Mejor Fitness de la Generacion = 0.008052493288192035 // Individuo: 15
-Mejores F1F2 = 0.6125164802859104, 0.08119745658356563 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 250
-Mejor Fitness de la Generacion = 0.00800781567285598 // Individuo: 15
-Mejores F1F2 = 0.6125164802859104, 0.08566521811717105 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 251
-Mejor Fitness de la Generacion = 0.0075757283874673155 // Individuo: 15
-Mejores F1F2 = 0.609484047492316, 0.12887394665603755 // Individuo: 7
-----------------------------------------------------------------------------------------------
--Generacion Nº 252
-Mejor Fitness de la Generacion = 0.007554969235457407 // Individuo: 15
-Mejores F1F2 = 0.6097700349803595, 0.13094986185702842 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 253
-Mejor Fitness de la Generacion = 0.007582019428683806 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.12824484253438845 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 254
-Mejor Fitness de la Generacion = 0.007886920844312488 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.09775470097152024 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 255
-Mejor Fitness de la Generacion = 0.007720173837337628 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.09880109717704519 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 256
-Mejor Fitness de la Generacion = 0.007720173837337628 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.09880109717704519 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 257
-Mejor Fitness de la Generacion = 0.007720173837337628 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.09880109717704519 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 258
-Mejor Fitness de la Generacion = 0.007637293436017213 // Individuo: 15
-Mejores F1F2 = 0.6097700349803595, 0.10603978696351261 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 259
-Mejor Fitness de la Generacion = 0.007637293436017213 // Individuo: 15
-Mejores F1F2 = 0.6097700349803595, 0.10603978696351261 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 260
-Mejor Fitness de la Generacion = 0.007632319785374858 // Individuo: 15
-Mejores F1F2 = 0.6100065991692172, 0.10653715202774804 // Individuo: 18
-----------------------------------------------------------------------------------------------
--Generacion Nº 261
-Mejor Fitness de la Generacion = 0.007632319785374858 // Individuo: 15
-Mejores F1F2 = 0.6100065991692172, 0.10653715202774804 // Individuo: 18
-----------------------------------------------------------------------------------------------
--Generacion Nº 262
-Mejor Fitness de la Generacion = 0.0077264911427596126 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.09712001628927253 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 263
-Mejor Fitness de la Generacion = 0.0077264911427596126 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.09712001628927253 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 264
-Mejor Fitness de la Generacion = 0.007741157460443702 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.09712001628927253 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 265
-Mejor Fitness de la Generacion = 0.007616294296164458 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.09712001628927253 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 266
-Mejor Fitness de la Generacion = 0.007616294296164458 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.09712001628927253 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 267
-Mejor Fitness de la Generacion = 0.007715704526251612 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.08959393848576536 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 268
-Mejor Fitness de la Generacion = 0.007700357795926627 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.08645269004470052 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 269
-Mejor Fitness de la Generacion = 0.007722586842078676 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.08645269004470052 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 270
-Mejor Fitness de la Generacion = 0.00776598259727908 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.08211311452466022 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 271
-Mejor Fitness de la Generacion = 0.007682409160133095 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.10452752383009849 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 272
-Mejor Fitness de la Generacion = 0.007682409160133095 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.10452752383009849 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 273
-Mejor Fitness de la Generacion = 0.007777175587608217 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.09505088108258623 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 274
-Mejor Fitness de la Generacion = 0.007777175587608217 // Individuo: 15
-Mejores F1F2 = 0.610149592913239, 0.09505088108258623 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 275
-Mejor Fitness de la Generacion = 0.007569117974297669 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.11585664241364103 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 276
-Mejor Fitness de la Generacion = 0.007948847906836889 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.07680899240017852 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 277
-Mejor Fitness de la Generacion = 0.007947155481409535 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.07697823494291386 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 278
-Mejor Fitness de la Generacion = 0.007786541253565394 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.09303965772732799 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 279
-Mejor Fitness de la Generacion = 0.007428722668746674 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.10807484925897001 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 280
-Mejor Fitness de la Generacion = 0.007331280261822646 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.11781908995137275 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 281
-Mejor Fitness de la Generacion = 0.007392366392890016 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.11781908995137275 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 282
-Mejor Fitness de la Generacion = 0.007392366392890016 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.11781908995137275 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 283
-Mejor Fitness de la Generacion = 0.007392366392890016 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.11781908995137275 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 284
-Mejor Fitness de la Generacion = 0.007392366392890016 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.11781908995137275 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 285
-Mejor Fitness de la Generacion = 0.007540555131893294 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.10300021605104484 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 286
-Mejor Fitness de la Generacion = 0.007633085581955407 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.10300021605104484 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 287
-Mejor Fitness de la Generacion = 0.007571274944011527 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.10918127984543276 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 288
-Mejor Fitness de la Generacion = 0.0077430929822741535 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.09177673020780983 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 289
-Mejor Fitness de la Generacion = 0.0077430929822741535 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.09177673020780983 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 290
-Mejor Fitness de la Generacion = 0.007200997632650197 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.1184707291002848 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 291
-Mejor Fitness de la Generacion = 0.007569597704379915 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.12219139164352275 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 292
-Mejor Fitness de la Generacion = 0.007397029262023248 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1395570177288504 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 293
-Mejor Fitness de la Generacion = 0.007416694336306542 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13748172845085999 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 294
-Mejor Fitness de la Generacion = 0.00781347091554891 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.09780407052662325 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 295
-Mejor Fitness de la Generacion = 0.00766849444076178 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.11230171800533623 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 296
-Mejor Fitness de la Generacion = 0.007793928154790343 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.09975834660247994 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 297
-Mejor Fitness de la Generacion = 0.007726952178921561 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.08713669899212577 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 298
-Mejor Fitness de la Generacion = 0.007726952178921561 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.08713669899212577 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 299
-Mejor Fitness de la Generacion = 0.007726952178921561 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.08713669899212577 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 300
-Mejor Fitness de la Generacion = 0.007726952178921561 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.08713669899212577 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 301
-Mejor Fitness de la Generacion = 0.007533225466179698 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.08713669899212577 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 302
-Mejor Fitness de la Generacion = 0.007420561116552459 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.0984031339548497 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 303
-Mejor Fitness de la Generacion = 0.007420561116552459 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.0984031339548497 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 304
-Mejor Fitness de la Generacion = 0.007420561116552459 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.0984031339548497 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 305
-Mejor Fitness de la Generacion = 0.007420561116552459 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.0984031339548497 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 306
-Mejor Fitness de la Generacion = 0.007497442132804741 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.09071503232962147 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 307
-Mejor Fitness de la Generacion = 0.007495958031988952 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.10422704931113526 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 308
-Mejor Fitness de la Generacion = 0.007495958031988952 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.10422704931113526 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 309
-Mejor Fitness de la Generacion = 0.007527310070525958 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.10109184545743463 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 310
-Mejor Fitness de la Generacion = 0.00752221402972432 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.10160144953759846 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 311
-Mejor Fitness de la Generacion = 0.007628352408992422 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.09098761161078826 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 312
-Mejor Fitness de la Generacion = 0.007628352408992422 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.09098761161078826 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 313
-Mejor Fitness de la Generacion = 0.007731900434416623 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.09098761161078826 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 314
-Mejor Fitness de la Generacion = 0.007415918466819504 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.09098761161078826 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 315
-Mejor Fitness de la Generacion = 0.007415918466819504 // Individuo: 15
-Mejores F1F2 = 0.6096039370637879, 0.09098761161078826 // Individuo: 13
-----------------------------------------------------------------------------------------------
--Generacion Nº 316
-Mejor Fitness de la Generacion = 0.006936621099154996 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13685339187073361 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 317
-Mejor Fitness de la Generacion = 0.0068958771675420825 // Individuo: 15
-Mejores F1F2 = 0.6074158222452773, 0.140927785032025 // Individuo: 18
-----------------------------------------------------------------------------------------------
--Generacion Nº 318
-Mejor Fitness de la Generacion = 0.0071459770865443485 // Individuo: 15
-Mejores F1F2 = 0.6069111376199948, 0.13941126415057548 // Individuo: 18
-----------------------------------------------------------------------------------------------
--Generacion Nº 319
-Mejor Fitness de la Generacion = 0.00707540538017027 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.15024174829302364 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 320
-Mejor Fitness de la Generacion = 0.007294344934255577 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1283477928844929 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 321
-Mejor Fitness de la Generacion = 0.00727617451429557 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.14691232686410688 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 322
-Mejor Fitness de la Generacion = 0.007461565189307362 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12837325936292776 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 323
-Mejor Fitness de la Generacion = 0.007179115018698055 // Individuo: 15
-Mejores F1F2 = 0.6069111376199948, 0.13019027492732765 // Individuo: 18
-----------------------------------------------------------------------------------------------
--Generacion Nº 324
-Mejor Fitness de la Generacion = 0.007198541830437142 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12532817557721845 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 325
-Mejor Fitness de la Generacion = 0.007198541830437142 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12532817557721845 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 326
-Mejor Fitness de la Generacion = 0.007198541830437142 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12532817557721845 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 327
-Mejor Fitness de la Generacion = 0.007249150005491076 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12026735807182509 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 328
-Mejor Fitness de la Generacion = 0.007235299826678654 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12165237595306716 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 329
-Mejor Fitness de la Generacion = 0.007379911488622493 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12165237595306716 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 330
-Mejor Fitness de la Generacion = 0.007281071235472462 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12498938586123563 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 331
-Mejor Fitness de la Generacion = 0.0074060632588953965 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10837283818393278 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 332
-Mejor Fitness de la Generacion = 0.007394442771448038 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10837283818393278 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 333
-Mejor Fitness de la Generacion = 0.007441565563039577 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.11413118274445948 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 334
-Mejor Fitness de la Generacion = 0.007683133630415562 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.11413118274445948 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 335
-Mejor Fitness de la Generacion = 0.007461574599399557 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.11413118274445948 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 336
-Mejor Fitness de la Generacion = 0.007240944297678409 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1277768675617992 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 337
-Mejor Fitness de la Generacion = 0.007476901704249519 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.11989738127132092 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 338
-Mejor Fitness de la Generacion = 0.007177180765573626 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.11989738127132092 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 339
-Mejor Fitness de la Generacion = 0.0071300328755535495 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12461568083900006 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 340
-Mejor Fitness de la Generacion = 0.007121073757033984 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12461568083900006 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 341
-Mejor Fitness de la Generacion = 0.007121073757033984 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12461568083900006 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 342
-Mejor Fitness de la Generacion = 0.006977346657208081 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13898839082159034 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 343
-Mejor Fitness de la Generacion = 0.006977346657208081 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13898839082159034 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 344
-Mejor Fitness de la Generacion = 0.006977346657208081 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13898839082159034 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 345
-Mejor Fitness de la Generacion = 0.006906591766321471 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13898839082159034 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 346
-Mejor Fitness de la Generacion = 0.0068628652952716345 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13898839082159034 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 347
-Mejor Fitness de la Generacion = 0.006927218800231576 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13898839082159034 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 348
-Mejor Fitness de la Generacion = 0.0068767401101988805 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1440362598248599 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 349
-Mejor Fitness de la Generacion = 0.0068767401101988805 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1440362598248599 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 350
-Mejor Fitness de la Generacion = 0.006943560390825255 // Individuo: 15
-Mejores F1F2 = 0.6066724666731818, 0.13683727957130962 // Individuo: 18
-----------------------------------------------------------------------------------------------
--Generacion Nº 351
-Mejor Fitness de la Generacion = 0.006974298233805324 // Individuo: 15
-Mejores F1F2 = 0.6066724666731818, 0.14264724170872303 // Individuo: 18
-----------------------------------------------------------------------------------------------
--Generacion Nº 352
-Mejor Fitness de la Generacion = 0.006974298233805324 // Individuo: 15
-Mejores F1F2 = 0.6066724666731818, 0.14264724170872303 // Individuo: 18
-----------------------------------------------------------------------------------------------
--Generacion Nº 353
-Mejor Fitness de la Generacion = 0.007268030282382634 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12316534779313776 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 354
-Mejor Fitness de la Generacion = 0.007254948333541837 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12316534779313776 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 355
-Mejor Fitness de la Generacion = 0.007147272773200242 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12316534779313776 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 356
-Mejor Fitness de la Generacion = 0.007096230218359712 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12316534779313776 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 357
-Mejor Fitness de la Generacion = 0.007082703385415757 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12316534779313776 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 358
-Mejor Fitness de la Generacion = 0.007082703385415757 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12316534779313776 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 359
-Mejor Fitness de la Generacion = 0.007082703385415757 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12316534779313776 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 360
-Mejor Fitness de la Generacion = 0.007082703385415757 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12316534779313776 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 361
-Mejor Fitness de la Generacion = 0.006800449845122265 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13361781509724674 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 362
-Mejor Fitness de la Generacion = 0.006901782528643004 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13093408235789397 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 363
-Mejor Fitness de la Generacion = 0.006901782528643004 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13093408235789397 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 364
-Mejor Fitness de la Generacion = 0.006901782528643004 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13093408235789397 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 365
-Mejor Fitness de la Generacion = 0.006901782528643004 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13093408235789397 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 366
-Mejor Fitness de la Generacion = 0.006901782528643004 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13093408235789397 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 367
-Mejor Fitness de la Generacion = 0.0068786310815045874 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13324922707173564 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 368
-Mejor Fitness de la Generacion = 0.0068786310815045874 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.13324922707173564 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 369
-Mejor Fitness de la Generacion = 0.006952627727531856 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12584956246900866 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 370
-Mejor Fitness de la Generacion = 0.006952627727531856 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12584956246900866 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 371
-Mejor Fitness de la Generacion = 0.00699059589454009 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12205274576818526 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 372
-Mejor Fitness de la Generacion = 0.007140865101303339 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10702582509186044 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 373
-Mejor Fitness de la Generacion = 0.007175720253661803 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10354030985601395 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 374
-Mejor Fitness de la Generacion = 0.006973589106235066 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12375342459868764 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 375
-Mejor Fitness de la Generacion = 0.006973589106235066 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12375342459868764 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 376
-Mejor Fitness de la Generacion = 0.006973589106235066 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.12375342459868764 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 377
-Mejor Fitness de la Generacion = 0.007142281467312362 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10688418849095815 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 378
-Mejor Fitness de la Generacion = 0.007142281467312362 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10688418849095815 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 379
-Mejor Fitness de la Generacion = 0.007104247898144967 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.11068754540769751 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 380
-Mejor Fitness de la Generacion = 0.007149041653097419 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10620816991245242 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 381
-Mejor Fitness de la Generacion = 0.00710534716429594 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.11057761879260028 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 382
-Mejor Fitness de la Generacion = 0.007069208324016228 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.11419150282057146 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 383
-Mejor Fitness de la Generacion = 0.007069208324016228 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.11419150282057146 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 384
-Mejor Fitness de la Generacion = 0.007069208324016228 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.11419150282057146 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 385
-Mejor Fitness de la Generacion = 0.007059815978876614 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1151307373345329 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 386
-Mejor Fitness de la Generacion = 0.007059815978876614 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1151307373345329 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 387
-Mejor Fitness de la Generacion = 0.007120420329888373 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10907030223335705 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 388
-Mejor Fitness de la Generacion = 0.007102883668228342 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10920251597844688 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 389
-Mejor Fitness de la Generacion = 0.007117352836500718 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10775559915120932 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 390
-Mejor Fitness de la Generacion = 0.007088666053911781 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.11062427741010311 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 391
-Mejor Fitness de la Generacion = 0.007088666053911781 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.11062427741010311 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 392
-Mejor Fitness de la Generacion = 0.007184976397731945 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10099324302808661 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 393
-Mejor Fitness de la Generacion = 0.006939667636411397 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1255241191601415 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 394
-Mejor Fitness de la Generacion = 0.006919967346431164 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1274941481581647 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 395
-Mejor Fitness de la Generacion = 0.007150577947511121 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10443308805016907 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 396
-Mejor Fitness de la Generacion = 0.007156943279765831 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10379655482469807 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 397
-Mejor Fitness de la Generacion = 0.007156943279765831 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10379655482469807 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 398
-Mejor Fitness de la Generacion = 0.00713449625059802 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1060412577414791 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 399
-Mejor Fitness de la Generacion = 0.00713449625059802 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1060412577414791 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 400
-Mejor Fitness de la Generacion = 0.00713449625059802 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1060412577414791 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 401
-Mejor Fitness de la Generacion = 0.00713449625059802 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1060412577414791 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 402
-Mejor Fitness de la Generacion = 0.007154050319548419 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1040858508464392 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 403
-Mejor Fitness de la Generacion = 0.007190141031448205 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10047677965646062 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 404
-Mejor Fitness de la Generacion = 0.00717852312446664 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10163857035461714 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 405
-Mejor Fitness de la Generacion = 0.00717852312446664 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10163857035461714 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 406
-Mejor Fitness de la Generacion = 0.007084510224064496 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.11103986039483159 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 407
-Mejor Fitness de la Generacion = 0.007068951445259192 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.11259573827536198 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 408
-Mejor Fitness de la Generacion = 0.007146357951267275 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1048550876745536 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 409
-Mejor Fitness de la Generacion = 0.007146357951267275 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1048550876745536 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 410
-Mejor Fitness de la Generacion = 0.007146357951267275 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.1048550876745536 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 411
-Mejor Fitness de la Generacion = 0.007139994231011025 // Individuo: 15
-Mejores F1F2 = 0.6077862552262844, 0.10549145970017865 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 412
-Mejor Fitness de la Generacion = 0.007152463958806985 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.10424448692058268 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 413
-Mejor Fitness de la Generacion = 0.0072033129154702525 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.09915959125425584 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 414
-Mejor Fitness de la Generacion = 0.007079134626764917 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.11157742012478948 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 415
-Mejor Fitness de la Generacion = 0.007079134626764917 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.11157742012478948 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 416
-Mejor Fitness de la Generacion = 0.007034561087208764 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.11157742012478948 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 417
-Mejor Fitness de la Generacion = 0.007034561087208764 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.11157742012478948 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 418
-Mejor Fitness de la Generacion = 0.007028772122236071 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.11215631662205869 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 419
-Mejor Fitness de la Generacion = 0.007028772122236071 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.11215631662205869 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 420
-Mejor Fitness de la Generacion = 0.0069811696899890205 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.11691655984676377 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 421
-Mejor Fitness de la Generacion = 0.006987042372031714 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.11632929164249442 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 422
-Mejor Fitness de la Generacion = 0.007075794054634495 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.10622524598711636 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 423
-Mejor Fitness de la Generacion = 0.007128921489222165 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.10091250252834923 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 424
-Mejor Fitness de la Generacion = 0.007128921489222165 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.10091250252834923 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 425
-Mejor Fitness de la Generacion = 0.007128921489222165 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.10091250252834923 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 426
-Mejor Fitness de la Generacion = 0.00713291362637459 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.10051328881310685 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 427
-Mejor Fitness de la Generacion = 0.007205730897225566 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.0932315617280092 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 428
-Mejor Fitness de la Generacion = 0.007205730897225566 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.0932315617280092 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 429
-Mejor Fitness de la Generacion = 0.007205730897225566 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.0932315617280092 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 430
-Mejor Fitness de la Generacion = 0.007167051245681136 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.09709952688245226 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 431
-Mejor Fitness de la Generacion = 0.007136206815233675 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.1001839699271983 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 432
-Mejor Fitness de la Generacion = 0.0071240454190861745 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.10140010954194838 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 433
-Mejor Fitness de la Generacion = 0.007174366043927881 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.09636804705777768 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 434
-Mejor Fitness de la Generacion = 0.007174366043927881 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.09636804705777768 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 435
-Mejor Fitness de la Generacion = 0.007166491645697874 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.09636804705777768 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 436
-Mejor Fitness de la Generacion = 0.007166491645697874 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.09636804705777768 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 437
-Mejor Fitness de la Generacion = 0.007102900207578695 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.10272719086969564 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 438
-Mejor Fitness de la Generacion = 0.007228926503990465 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.0901245612285187 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 439
-Mejor Fitness de la Generacion = 0.007235154921308491 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.08950171949671601 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 440
-Mejor Fitness de la Generacion = 0.007188337410352696 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.09418347059229558 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 441
-Mejor Fitness de la Generacion = 0.007188337410352696 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.09418347059229558 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 442
-Mejor Fitness de la Generacion = 0.007188337410352696 // Individuo: 15
-Mejores F1F2 = 0.6076962967861825, 0.09418347059229558 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 443
-Mejor Fitness de la Generacion = 0.00709497398609459 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10351981301810621 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 444
-Mejor Fitness de la Generacion = 0.00704565220938408 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10845199068915712 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 445
-Mejor Fitness de la Generacion = 0.00704565220938408 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10845199068915712 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 446
-Mejor Fitness de la Generacion = 0.00704565220938408 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10845199068915712 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 447
-Mejor Fitness de la Generacion = 0.00704565220938408 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10845199068915712 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 448
-Mejor Fitness de la Generacion = 0.00706572470266376 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10644474136118913 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 449
-Mejor Fitness de la Generacion = 0.00702957154864794 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.1100600567627712 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 450
-Mejor Fitness de la Generacion = 0.00702957154864794 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.1100600567627712 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 451
-Mejor Fitness de la Generacion = 0.007100238744185194 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10299333720904566 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 452
-Mejor Fitness de la Generacion = 0.00709641111838159 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10337609978940626 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 453
-Mejor Fitness de la Generacion = 0.00709641111838159 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10337609978940626 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 454
-Mejor Fitness de la Generacion = 0.00709641111838159 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10337609978940626 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 455
-Mejor Fitness de la Generacion = 0.007152609106613538 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.09775630096621132 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 456
-Mejor Fitness de la Generacion = 0.007152609106613538 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.09775630096621132 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 457
-Mejor Fitness de la Generacion = 0.0071523988510238425 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.09775630096621132 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 458
-Mejor Fitness de la Generacion = 0.0071523988510238425 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.09775630096621132 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 459
-Mejor Fitness de la Generacion = 0.007171400905396608 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.09585609552893483 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 460
-Mejor Fitness de la Generacion = 0.007157798255962326 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.09585609552893483 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 461
-Mejor Fitness de la Generacion = 0.007130294211470046 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.09860649997816272 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 462
-Mejor Fitness de la Generacion = 0.007112263456286998 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10040957549646755 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 463
-Mejor Fitness de la Generacion = 0.007135751863702306 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.09806073475493678 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 464
-Mejor Fitness de la Generacion = 0.007113056460048023 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.1003302751203651 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 465
-Mejor Fitness de la Generacion = 0.007113056460048023 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.1003302751203651 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 466
-Mejor Fitness de la Generacion = 0.007115678452436714 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10006807588149587 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 467
-Mejor Fitness de la Generacion = 0.00709596519964036 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10203940116113143 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 468
-Mejor Fitness de la Generacion = 0.007112351988914293 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10040072223373811 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 469
-Mejor Fitness de la Generacion = 0.007112351988914293 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10040072223373811 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 470
-Mejor Fitness de la Generacion = 0.007112351988914293 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10040072223373811 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 471
-Mejor Fitness de la Generacion = 0.007112351988914293 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10040072223373811 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 472
-Mejor Fitness de la Generacion = 0.007134177881121386 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.09821813301302879 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 473
-Mejor Fitness de la Generacion = 0.007134177881121386 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.09821813301302879 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 474
-Mejor Fitness de la Generacion = 0.007134177881121386 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.09821813301302879 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 475
-Mejor Fitness de la Generacion = 0.007134177881121386 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.09821813301302879 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 476
-Mejor Fitness de la Generacion = 0.007134177881121386 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.09821813301302879 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 477
-Mejor Fitness de la Generacion = 0.007086163027215511 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10301961840361624 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 478
-Mejor Fitness de la Generacion = 0.007090530051628681 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10258291596229928 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 479
-Mejor Fitness de la Generacion = 0.0070978202916621045 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10175308595637356 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 480
-Mejor Fitness de la Generacion = 0.0070978202916621045 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10175308595637356 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 481
-Mejor Fitness de la Generacion = 0.007076872348593927 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10384788026319137 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 482
-Mejor Fitness de la Generacion = 0.007007969278866186 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.11073818723596537 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 483
-Mejor Fitness de la Generacion = 0.00703008000447391 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10852711467519303 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 484
-Mejor Fitness de la Generacion = 0.00703008000447391 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10852711467519303 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 485
-Mejor Fitness de la Generacion = 0.007037357289305653 // Individuo: 15
-Mejores F1F2 = 0.60720705531156, 0.10779938619201868 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 486
-Mejor Fitness de la Generacion = 0.00667055072376675 // Individuo: 15
-Mejores F1F2 = 0.6048274062530878, 0.14448004274590912 // Individuo: 18
-----------------------------------------------------------------------------------------------
--Generacion Nº 487
-Mejor Fitness de la Generacion = 0.00667055072376675 // Individuo: 15
-Mejores F1F2 = 0.6048274062530878, 0.14448004274590912 // Individuo: 18
-----------------------------------------------------------------------------------------------
--Generacion Nº 488
-Mejor Fitness de la Generacion = 0.0066864268251676144 // Individuo: 15
-Mejores F1F2 = 0.6050499834251897, 0.14289243260582263 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 489
-Mejor Fitness de la Generacion = 0.0066978219111052595 // Individuo: 15
-Mejores F1F2 = 0.6050499834251897, 0.14175292401205808 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 490
-Mejor Fitness de la Generacion = 0.006697425394384411 // Individuo: 15
-Mejores F1F2 = 0.6050499834251897, 0.14179257568414294 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 491
-Mejor Fitness de la Generacion = 0.006711955914563572 // Individuo: 15
-Mejores F1F2 = 0.6050499834251897, 0.14033952366622682 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 492
-Mejor Fitness de la Generacion = 0.006716600347141595 // Individuo: 15
-Mejores F1F2 = 0.6050499834251897, 0.13987508040842458 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 493
-Mejor Fitness de la Generacion = 0.006672413593174883 // Individuo: 15
-Mejores F1F2 = 0.6048274062530878, 0.1442937558050957 // Individuo: 18
-----------------------------------------------------------------------------------------------
--Generacion Nº 494
-Mejor Fitness de la Generacion = 0.00663798477476366 // Individuo: 15
-Mejores F1F2 = 0.6050499834251897, 0.14742701256573632 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 495
-Mejor Fitness de la Generacion = 0.006663560548559638 // Individuo: 15
-Mejores F1F2 = 0.6050499834251897, 0.14486943518613857 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 496
-Mejor Fitness de la Generacion = 0.006695833915821174 // Individuo: 15
-Mejores F1F2 = 0.6050499834251897, 0.14164209845998488 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 497
-Mejor Fitness de la Generacion = 0.006729201721763 // Individuo: 15
-Mejores F1F2 = 0.6050499834251897, 0.13830531786580239 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 498
-Mejor Fitness de la Generacion = 0.006729201721763 // Individuo: 15
-Mejores F1F2 = 0.6050499834251897, 0.13830531786580239 // Individuo: 19
-----------------------------------------------------------------------------------------------
--Generacion Nº 499
-Mejor Fitness de la Generacion = 0.006722618759438588 // Individuo: 15
-Mejores F1F2 = 0.6050499834251897, 0.13830531786580239 // Individuo: 19
+Mejor Fitness de la Generacion = 0.008104591454037533 // Individuo: 15
+Mejores F1F2 = 0.6135647079314842, 0.10958833917336626 // Individuo: 13
 ----------------------------------------------------------------------------------------------
